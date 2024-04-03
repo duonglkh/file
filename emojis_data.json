@@ -1,0 +1,2547 @@
+{
+  "emojis": [
+    {
+      "category": "Smileys & Emotion (face-smiling)",
+      "emojis": [
+        {
+          "emoji": "😂",
+          "name": "face with tears of joy",
+          "shortname": ":joy:",
+          "unicode": "1f602",
+          "html": "&#128514;",
+          "category": "Smileys & Emotion (face-smiling)",
+          "order": "3"
+        },
+        {
+          "emoji": "😊",
+          "name": "smiling face with smiling eyes",
+          "shortname": ":blush:",
+          "unicode": "1f60a",
+          "html": "&#128522;",
+          "category": "Smileys & Emotion (face-smiling)",
+          "order": "10"
+        },
+        {
+          "emoji": "😁",
+          "name": "beaming face with smiling eyes",
+          "shortname": ":grin:",
+          "unicode": "1f601",
+          "html": "&#128513;",
+          "category": "Smileys & Emotion (face-smiling)",
+          "order": "2"
+        },
+        {
+          "emoji": "😉",
+          "name": "winking face",
+          "shortname": ":wink:",
+          "unicode": "1f609",
+          "html": "&#128521;",
+          "category": "Smileys & Emotion (face-smiling)",
+          "order": "9"
+        },
+        {
+          "emoji": "😅",
+          "name": "grinning face with sweat",
+          "shortname": ":sweat_smile:",
+          "unicode": "1f605",
+          "html": "&#128517;",
+          "category": "Smileys & Emotion (face-smiling)",
+          "order": "7"
+        },
+        {
+          "emoji": "😄",
+          "name": "grinning face with smiling eyes",
+          "shortname": ":smile:",
+          "unicode": "1f604",
+          "html": "&#128516;",
+          "category": "Smileys & Emotion (face-smiling)",
+          "order": "6"
+        },
+        {
+          "emoji": "😃",
+          "name": "grinning face with big eyes",
+          "shortname": ":smiley:",
+          "unicode": "1f603",
+          "html": "&#128515;",
+          "category": "Smileys & Emotion (face-smiling)",
+          "order": "5"
+        },
+        {
+          "emoji": "😆",
+          "name": "grinning squinting face",
+          "shortname": ":laughing:",
+          "unicode": "1f606",
+          "html": "&#128518;",
+          "category": "Smileys & Emotion (face-smiling)",
+          "order": "8"
+        },
+        {
+          "emoji": "😀",
+          "name": "grinning face",
+          "shortname": ":grinning:",
+          "unicode": "1f600",
+          "html": "&#128512;",
+          "category": "Smileys & Emotion (face-smiling)",
+          "order": "1"
+        },
+        {
+          "emoji": "😇",
+          "name": "smiling face with halo",
+          "shortname": ":innocent:",
+          "unicode": "1f607",
+          "html": "&#128519;",
+          "category": "Smileys & Emotion (face-smiling)",
+          "order": "67"
+        },
+        {
+          "emoji": "🙃",
+          "name": "upside-down face",
+          "shortname": ":upside_down:",
+          "unicode": "1f643",
+          "html": "&#128579;",
+          "category": "Smileys & Emotion (face-smiling)",
+          "order": "45"
+        },
+        {
+          "emoji": "🙂",
+          "name": "slightly smiling face",
+          "shortname": ":slight_smile:",
+          "unicode": "1f642",
+          "html": "&#128578;",
+          "category": "Smileys & Emotion (face-smiling)",
+          "order": "19"
+        },
+        {
+          "emoji": "🤣",
+          "name": "rolling on the floor laughing",
+          "shortname": ":rolling_on_the_floor_laughing:",
+          "unicode": "1F923",
+          "html": "&#x1F923;",
+          "category": "Smileys & Emotion (face-smiling)",
+          "order": ""
+        }
+      ]
+    },
+    {
+      "category": "Smileys & Emotion (emotion)",
+      "emojis": [
+        {
+          "emoji": "❤️",
+          "name": "red heart",
+          "shortname": ":heart:",
+          "unicode": "2764",
+          "html": "&#10084;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1286"
+        },
+        {
+          "emoji": "💕",
+          "name": "two hearts",
+          "shortname": ":two_hearts:",
+          "unicode": "1f495",
+          "html": "&#128149;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1289"
+        },
+        {
+          "emoji": "💜",
+          "name": "purple heart",
+          "shortname": ":purple_heart:",
+          "unicode": "1f49c",
+          "html": "&#128156;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1295"
+        },
+        {
+          "emoji": "💔",
+          "name": "broken heart",
+          "shortname": ":broken_heart:",
+          "unicode": "1f494",
+          "html": "&#128148;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1288"
+        },
+        {
+          "emoji": "💯",
+          "name": "hundred points",
+          "shortname": ":hundred_points:",
+          "unicode": "1F4AF",
+          "html": "&#128175;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": ""
+        },
+        {
+          "emoji": "💖",
+          "name": "sparkling heart",
+          "shortname": ":sparkling_heart:",
+          "unicode": "1f496",
+          "html": "&#128150;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1290"
+        },
+        {
+          "emoji": "💙",
+          "name": "blue heart",
+          "shortname": ":blue_heart:",
+          "unicode": "1f499",
+          "html": "&#128153;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1292"
+        },
+        {
+          "emoji": "💘",
+          "name": "heart with arrow",
+          "shortname": ":cupid:",
+          "unicode": "1f498",
+          "html": "&#128152;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1285"
+        },
+        {
+          "emoji": "💗",
+          "name": "growing heart",
+          "shortname": ":heartpulse:",
+          "unicode": "1f497",
+          "html": "&#128151;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1291"
+        },
+        {
+          "emoji": "💞",
+          "name": "revolving hearts",
+          "shortname": ":revolving_hearts:",
+          "unicode": "1f49e",
+          "html": "&#128158;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1298"
+        },
+        {
+          "emoji": "💋",
+          "name": "kiss mark",
+          "shortname": ":kiss:",
+          "unicode": "1f48b",
+          "html": "&#128139;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1284"
+        },
+        {
+          "emoji": "💛",
+          "name": "yellow heart",
+          "shortname": ":yellow_heart:",
+          "unicode": "1f49b",
+          "html": "&#128155;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1294"
+        },
+        {
+          "emoji": "💚",
+          "name": "green heart",
+          "shortname": ":green_heart:",
+          "unicode": "1f49a",
+          "html": "&#128154;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1293"
+        },
+        {
+          "emoji": "💓",
+          "name": "beating heart",
+          "shortname": ":heartbeat:",
+          "unicode": "1f493",
+          "html": "&#128147;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1287"
+        },
+        {
+          "emoji": "💫",
+          "name": "dizzy",
+          "shortname": ":dizzy:",
+          "unicode": "1f4ab",
+          "html": "&#128171;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1308"
+        },
+        {
+          "emoji": "💥",
+          "name": "collision",
+          "shortname": ":boom:",
+          "unicode": "1f4a5",
+          "html": "&#128165;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1305"
+        },
+        {
+          "emoji": "💭",
+          "name": "thought balloon",
+          "shortname": ":thought_balloon:",
+          "unicode": "1f4ad",
+          "html": "&#128173;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1312"
+        },
+        {
+          "emoji": "💦",
+          "name": "sweat droplets",
+          "shortname": ":sweat_drops:",
+          "unicode": "1f4a6",
+          "html": "&#128166;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1306"
+        },
+        {
+          "emoji": "💤",
+          "name": "zzz",
+          "shortname": ":zzz:",
+          "unicode": "1f4a4",
+          "html": "&#128164;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1302"
+        },
+        {
+          "emoji": "💟",
+          "name": "heart decoration",
+          "shortname": ":heart_decoration:",
+          "unicode": "1f49f",
+          "html": "&#128159;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1299"
+        },
+        {
+          "emoji": "💝",
+          "name": "heart with ribbon",
+          "shortname": ":gift_heart:",
+          "unicode": "1f49d",
+          "html": "&#128157;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1297"
+        },
+        {
+          "emoji": "💨",
+          "name": "dashing away",
+          "shortname": ":dash:",
+          "unicode": "1f4a8",
+          "html": "&#128168;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1307"
+        },
+        {
+          "emoji": "💌",
+          "name": "love letter",
+          "shortname": ":love_letter:",
+          "unicode": "1f48c",
+          "html": "&#128140;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1301"
+        },
+        {
+          "emoji": "💣",
+          "name": "bomb",
+          "shortname": ":bomb:",
+          "unicode": "1f4a3",
+          "html": "&#128163;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1304"
+        },
+        {
+          "emoji": "💢",
+          "name": "anger symbol",
+          "shortname": ":anger:",
+          "unicode": "1f4a2",
+          "html": "&#128162;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1303"
+        },
+        {
+          "emoji": "💬",
+          "name": "speech balloon",
+          "shortname": ":speech_balloon:",
+          "unicode": "1f4ac",
+          "html": "&#128172;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1309"
+        },
+        {
+          "emoji": "👁‍🗨",
+          "name": "eye in speech bubble",
+          "shortname": ":eye_speachbubble:",
+          "unicode": "1F441 200D 1F5E8",
+          "html": "&#128065;&zwj;&#128488;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": ""
+        },
+        {
+          "emoji": "❣️",
+          "name": "heart exclamation",
+          "shortname": ":heart_exclamation:",
+          "unicode": "2763",
+          "html": "&#10083;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1300"
+        },
+        {
+          "emoji": "🗯",
+          "name": "right anger bubble",
+          "shortname": ":anger_right:",
+          "unicode": "1f5ef",
+          "html": "&#128495;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1311"
+        },
+        {
+          "emoji": "🕳",
+          "name": "hole",
+          "shortname": ":hole:",
+          "unicode": "1f573",
+          "html": "&#128371;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1313"
+        },
+        {
+          "emoji": "🖤",
+          "name": "black heart",
+          "shortname": ":black_heart:",
+          "unicode": "1f5a4",
+          "html": "&#128420;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1296"
+        },
+        {
+          "emoji": "🗨",
+          "name": "left speech bubble",
+          "shortname": ":speech_left:",
+          "unicode": "1f5e8",
+          "html": "&#128488;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": "1310"
+        },
+        {
+          "emoji": "❣",
+          "name": "heart exclamation",
+          "shortname": ":heart_exclamation:",
+          "unicode": "2763",
+          "html": "&#x2763;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": ""
+        },
+        {
+          "emoji": "❤",
+          "name": "red heart",
+          "shortname": ":red_heart:",
+          "unicode": "2764",
+          "html": "&#x2764;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": ""
+        },
+        {
+          "emoji": "🧡",
+          "name": "orange heart",
+          "shortname": ":orange_heart:",
+          "unicode": "1F9E1",
+          "html": "&#x1F9E1;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": ""
+        },
+        {
+          "emoji": "🤎",
+          "name": "brown heart",
+          "shortname": ":brown_heart:",
+          "unicode": "1F90E",
+          "html": "&#x1F90E;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": ""
+        },
+        {
+          "emoji": "🤍",
+          "name": "white heart",
+          "shortname": ":white_heart:",
+          "unicode": "1F90D",
+          "html": "&#x1F90D;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": ""
+        },
+        {
+          "emoji": "🕳️",
+          "name": "hole",
+          "shortname": ":hole:",
+          "unicode": "1F573 FE0F",
+          "html": "&#x1F573;&#xFE0F;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": ""
+        },
+        {
+          "emoji": "👁️‍🗨️",
+          "name": "eye in speech bubble",
+          "shortname": ":eye_in_speech_bubble:",
+          "unicode": "1F441 FE0F 200D 1F5E8 FE0F",
+          "html": "&#x1F441;&#xFE0F;&#x200D;&#x1F5E8;&#xFE0F;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": ""
+        },
+        {
+          "emoji": "👁‍🗨️",
+          "name": "eye in speech bubble",
+          "shortname": ":eye_in_speech_bubble:",
+          "unicode": "1F441 200D 1F5E8 FE0F",
+          "html": "&#x1F441;&#x200D;&#x1F5E8;&#xFE0F;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": ""
+        },
+        {
+          "emoji": "👁️‍🗨",
+          "name": "eye in speech bubble",
+          "shortname": ":eye_in_speech_bubble:",
+          "unicode": "1F441 FE0F 200D 1F5E8",
+          "html": "&#x1F441;&#xFE0F;&#x200D;&#x1F5E8;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": ""
+        },
+        {
+          "emoji": "🗨️",
+          "name": "left speech bubble",
+          "shortname": ":left_speech_bubble:",
+          "unicode": "1F5E8 FE0F",
+          "html": "&#x1F5E8;&#xFE0F;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": ""
+        },
+        {
+          "emoji": "🗯️",
+          "name": "right anger bubble",
+          "shortname": ":right_anger_bubble:",
+          "unicode": "1F5EF FE0F",
+          "html": "&#x1F5EF;&#xFE0F;",
+          "category": "Smileys & Emotion (emotion)",
+          "order": ""
+        }
+      ]
+    },
+    {
+      "category": "Activities (game)",
+      "emojis": [
+        {
+          "emoji": "♥️",
+          "name": "heart suit",
+          "shortname": ":heart_suit:",
+          "unicode": "2665 FE0F",
+          "html": "&hearts;️",
+          "category": "Activities (game)",
+          "order": ""
+        },
+        {
+          "emoji": "♣️",
+          "name": "club suit",
+          "shortname": ":club_suit:",
+          "unicode": "2663 FE0F",
+          "html": "&clubs;️",
+          "category": "Activities (game)",
+          "order": ""
+        },
+        {
+          "emoji": "♦️",
+          "name": "diamond suit",
+          "shortname": ":diamond_suit:",
+          "unicode": "2666 FE0F",
+          "html": "&diams;️",
+          "category": "Activities (game)",
+          "order": ""
+        },
+        {
+          "emoji": "♠️",
+          "name": "spade suit",
+          "shortname": ":spade_suit:",
+          "unicode": "2660 FE0F",
+          "html": "&spades;️",
+          "category": "Activities (game)",
+          "order": ""
+        },
+        {
+          "emoji": "🔮",
+          "name": "crystal ball",
+          "shortname": ":crystal_ball:",
+          "unicode": "1f52e",
+          "html": "&#128302;",
+          "category": "Activities (game)",
+          "order": "1974"
+        },
+        {
+          "emoji": "🎮",
+          "name": "video game",
+          "shortname": ":video_game:",
+          "unicode": "1f3ae",
+          "html": "&#127918;",
+          "category": "Activities (game)",
+          "order": "1804"
+        },
+        {
+          "emoji": "🎯",
+          "name": "direct hit",
+          "shortname": ":dart:",
+          "unicode": "1f3af",
+          "html": "&#127919;",
+          "category": "Activities (game)",
+          "order": "1798"
+        },
+        {
+          "emoji": "🎲",
+          "name": "game die",
+          "shortname": ":game_die:",
+          "unicode": "1f3b2",
+          "html": "&#127922;",
+          "category": "Activities (game)",
+          "order": "1806"
+        },
+        {
+          "emoji": "🎱",
+          "name": "pool 8 ball",
+          "shortname": ":8ball:",
+          "unicode": "1f3b1",
+          "html": "&#127921;",
+          "category": "Activities (game)",
+          "order": "1788"
+        },
+        {
+          "emoji": "🃏",
+          "name": "joker",
+          "shortname": ":black_joker:",
+          "unicode": "1f0cf",
+          "html": "&#127183;",
+          "category": "Activities (game)",
+          "order": "1811"
+        },
+        {
+          "emoji": "🎰",
+          "name": "slot machine",
+          "shortname": ":slot_machine:",
+          "unicode": "1f3b0",
+          "html": "&#127920;",
+          "category": "Activities (game)",
+          "order": "1601"
+        },
+        {
+          "emoji": "🎴",
+          "name": "flower playing cards",
+          "shortname": ":flower_playing_cards:",
+          "unicode": "1f3b4",
+          "html": "&#127924;",
+          "category": "Activities (game)",
+          "order": "1813"
+        },
+        {
+          "emoji": "🀄",
+          "name": "mahjong red dragon",
+          "shortname": ":mahjong:",
+          "unicode": "1f004",
+          "html": "&#126980;",
+          "category": "Activities (game)",
+          "order": "1812"
+        },
+        {
+          "emoji": "🕹",
+          "name": "joystick",
+          "shortname": ":joystick:",
+          "unicode": "1f579",
+          "html": "&#128377;",
+          "category": "Activities (game)",
+          "order": "1805"
+        },
+        {
+          "emoji": "♠",
+          "name": "spade suit",
+          "shortname": ":spades:",
+          "unicode": "2660",
+          "html": "&spades;",
+          "category": "Activities (game)",
+          "order": "1807"
+        },
+        {
+          "emoji": "♥",
+          "name": "heart suit",
+          "shortname": ":hearts:",
+          "unicode": "2665",
+          "html": "&hearts;",
+          "category": "Activities (game)",
+          "order": "1808"
+        },
+        {
+          "emoji": "♦",
+          "name": "diamond suit",
+          "shortname": ":diamonds:",
+          "unicode": "2666",
+          "html": "&diams;",
+          "category": "Activities (game)",
+          "order": "1809"
+        },
+        {
+          "emoji": "♣",
+          "name": "club suit",
+          "shortname": ":clubs:",
+          "unicode": "2663",
+          "html": "&clubs;",
+          "category": "Activities (game)",
+          "order": "1810"
+        },
+        {
+          "emoji": "🪀",
+          "name": "yo-yo",
+          "shortname": ":yoyo:",
+          "unicode": "1FA80",
+          "html": "&#x1FA80;",
+          "category": "Activities (game)",
+          "order": ""
+        },
+        {
+          "emoji": "🪁",
+          "name": "kite",
+          "shortname": ":kite:",
+          "unicode": "1FA81",
+          "html": "&#x1FA81;",
+          "category": "Activities (game)",
+          "order": ""
+        },
+        {
+          "emoji": "🧿",
+          "name": "nazar amulet",
+          "shortname": ":nazar_amulet:",
+          "unicode": "1F9FF",
+          "html": "&#x1F9FF;",
+          "category": "Activities (game)",
+          "order": ""
+        },
+        {
+          "emoji": "🕹️",
+          "name": "joystick",
+          "shortname": ":joystick:",
+          "unicode": "1F579 FE0F",
+          "html": "&#x1F579;&#xFE0F;",
+          "category": "Activities (game)",
+          "order": ""
+        },
+        {
+          "emoji": "🧩",
+          "name": "puzzle piece",
+          "shortname": ":puzzle_piece:",
+          "unicode": "1F9E9",
+          "html": "&#x1F9E9;",
+          "category": "Activities (game)",
+          "order": ""
+        },
+        {
+          "emoji": "🧸",
+          "name": "teddy bear",
+          "shortname": ":teddy_bear:",
+          "unicode": "1F9F8",
+          "html": "&#x1F9F8;",
+          "category": "Activities (game)",
+          "order": ""
+        },
+        {
+          "emoji": "♟️",
+          "name": "chess pawn",
+          "shortname": ":chess_pawn:",
+          "unicode": "265F FE0F",
+          "html": "&#x265F;&#xFE0F;",
+          "category": "Activities (game)",
+          "order": ""
+        },
+        {
+          "emoji": "♟",
+          "name": "chess pawn",
+          "shortname": ":chess_pawn:",
+          "unicode": "265F",
+          "html": "&#x265F;",
+          "category": "Activities (game)",
+          "order": ""
+        }
+      ]
+    },
+    {
+      "category": "Smileys & Emotion (face-affection)",
+      "emojis": [
+        {
+          "emoji": "😍",
+          "name": "smiling face with heart-eyes",
+          "shortname": ":heart_eyes:",
+          "unicode": "1f60d",
+          "html": "&#128525;",
+          "category": "Smileys & Emotion (face-affection)",
+          "order": "13"
+        },
+        {
+          "emoji": "😘",
+          "name": "face blowing a kiss",
+          "shortname": ":kissing_heart:",
+          "unicode": "1f618",
+          "html": "&#128536;",
+          "category": "Smileys & Emotion (face-affection)",
+          "order": "14"
+        },
+        {
+          "emoji": "☺️",
+          "name": "smiling face",
+          "shortname": ":smiling:",
+          "unicode": "263A FE0F",
+          "html": "&#9786;",
+          "category": "Smileys & Emotion (face-affection)",
+          "order": ""
+        },
+        {
+          "emoji": "😚",
+          "name": "kissing face with closed eyes",
+          "shortname": ":kissing_closed_eyes:",
+          "unicode": "1f61a",
+          "html": "&#128538;",
+          "category": "Smileys & Emotion (face-affection)",
+          "order": "17"
+        },
+        {
+          "emoji": "😙",
+          "name": "kissing face with smiling eyes",
+          "shortname": ":kissing_smiling_eyes:",
+          "unicode": "1f619",
+          "html": "&#128537;",
+          "category": "Smileys & Emotion (face-affection)",
+          "order": "16"
+        },
+        {
+          "emoji": "😗",
+          "name": "kissing face",
+          "shortname": ":kissing:",
+          "unicode": "1f617",
+          "html": "&#128535;",
+          "category": "Smileys & Emotion (face-affection)",
+          "order": "15"
+        },
+        {
+          "emoji": "🥰",
+          "name": "smiling face with hearts",
+          "shortname": ":smiling_face_with_hearts:",
+          "unicode": "1F970",
+          "html": "&#x1F970;",
+          "category": "Smileys & Emotion (face-affection)",
+          "order": ""
+        },
+        {
+          "emoji": "🤩",
+          "name": "star-struck",
+          "shortname": ":starstruck:",
+          "unicode": "1F929",
+          "html": "&#x1F929;",
+          "category": "Smileys & Emotion (face-affection)",
+          "order": ""
+        },
+        {
+          "emoji": "☺",
+          "name": "smiling face",
+          "shortname": ":smiling_face:",
+          "unicode": "263A",
+          "html": "&#x263A;",
+          "category": "Smileys & Emotion (face-affection)",
+          "order": ""
+        }
+      ]
+    },
+    {
+      "category": "Smileys & Emotion (face-concerned)",
+      "emojis": [
+        {
+          "emoji": "😭",
+          "name": "loudly crying face",
+          "shortname": ":sob:",
+          "unicode": "1f62d",
+          "html": "&#128557;",
+          "category": "Smileys & Emotion (face-concerned)",
+          "order": "55"
+        },
+        {
+          "emoji": "😩",
+          "name": "weary face",
+          "shortname": ":weary:",
+          "unicode": "1f629",
+          "html": "&#128553;",
+          "category": "Smileys & Emotion (face-concerned)",
+          "order": "59"
+        },
+        {
+          "emoji": "😳",
+          "name": "flushed face",
+          "shortname": ":flushed:",
+          "unicode": "1f633",
+          "html": "&#128563;",
+          "category": "Smileys & Emotion (face-concerned)",
+          "order": "63"
+        },
+        {
+          "emoji": "😢",
+          "name": "crying face",
+          "shortname": ":cry:",
+          "unicode": "1f622",
+          "html": "&#128546;",
+          "category": "Smileys & Emotion (face-concerned)",
+          "order": "54"
+        },
+        {
+          "emoji": "😕",
+          "name": "confused face",
+          "shortname": ":confused:",
+          "unicode": "1f615",
+          "html": "&#128533;",
+          "category": "Smileys & Emotion (face-concerned)",
+          "order": "44"
+        },
+        {
+          "emoji": "😞",
+          "name": "disappointed face",
+          "shortname": ":disappointed:",
+          "unicode": "1f61e",
+          "html": "&#128542;",
+          "category": "Smileys & Emotion (face-concerned)",
+          "order": "51"
+        },
+        {
+          "emoji": "😱",
+          "name": "face screaming in fear",
+          "shortname": ":scream:",
+          "unicode": "1f631",
+          "html": "&#128561;",
+          "category": "Smileys & Emotion (face-concerned)",
+          "order": "62"
+        },
+        {
+          "emoji": "😫",
+          "name": "tired face",
+          "shortname": ":tired_face:",
+          "unicode": "1f62b",
+          "html": "&#128555;",
+          "category": "Smileys & Emotion (face-concerned)",
+          "order": "33"
+        },
+        {
+          "emoji": "😓",
+          "name": "downcast face with sweat",
+          "shortname": ":sweat:",
+          "unicode": "1f613",
+          "html": "&#128531;",
+          "category": "Smileys & Emotion (face-concerned)",
+          "order": "42"
+        },
+        {
+          "emoji": "😣",
+          "name": "persevering face",
+          "shortname": ":persevere:",
+          "unicode": "1f623",
+          "html": "&#128547;",
+          "category": "Smileys & Emotion (face-concerned)",
+          "order": "27"
+        },
+        {
+          "emoji": "😥",
+          "name": "sad but relieved face",
+          "shortname": ":disappointed_relieved:",
+          "unicode": "1f625",
+          "html": "&#128549;",
+          "category": "Smileys & Emotion (face-concerned)",
+          "order": "28"
+        },
+        {
+          "emoji": "😖",
+          "name": "confounded face",
+          "shortname": ":confounded:",
+          "unicode": "1f616",
+          "html": "&#128534;",
+          "category": "Smileys & Emotion (face-concerned)",
+          "order": "50"
+        },
+        {
+          "emoji": "😰",
+          "name": "anxious face with sweat",
+          "shortname": ":cold_sweat:",
+          "unicode": "1f630",
+          "html": "&#128560;",
+          "category": "Smileys & Emotion (face-concerned)",
+          "order": "61"
+        },
+        {
+          "emoji": "😟",
+          "name": "worried face",
+          "shortname": ":worried:",
+          "unicode": "1f61f",
+          "html": "&#128543;",
+          "category": "Smileys & Emotion (face-concerned)",
+          "order": "52"
+        },
+        {
+          "emoji": "😨",
+          "name": "fearful face",
+          "shortname": ":fearful:",
+          "unicode": "1f628",
+          "html": "&#128552;",
+          "category": "Smileys & Emotion (face-concerned)",
+          "order": "58"
+        },
+        {
+          "emoji": "😧",
+          "name": "anguished face",
+          "shortname": ":anguished:",
+          "unicode": "1f627",
+          "html": "&#128551;",
+          "category": "Smileys & Emotion (face-concerned)",
+          "order": "57"
+        },
+        {
+          "emoji": "😮",
+          "name": "face with open mouth",
+          "shortname": ":open_mouth:",
+          "unicode": "1f62e",
+          "html": "&#128558;",
+          "category": "Smileys & Emotion (face-concerned)",
+          "order": "29"
+        },
+        {
+          "emoji": "😯",
+          "name": "hushed face",
+          "shortname": ":hushed:",
+          "unicode": "1f62f",
+          "html": "&#128559;",
+          "category": "Smileys & Emotion (face-concerned)",
+          "order": "31"
+        },
+        {
+          "emoji": "😲",
+          "name": "astonished face",
+          "shortname": ":astonished:",
+          "unicode": "1f632",
+          "html": "&#128562;",
+          "category": "Smileys & Emotion (face-concerned)",
+          "order": "47"
+        },
+        {
+          "emoji": "😦",
+          "name": "frowning face with open mouth",
+          "shortname": ":frowning:",
+          "unicode": "1f626",
+          "html": "&#128550;",
+          "category": "Smileys & Emotion (face-concerned)",
+          "order": "56"
+        },
+        {
+          "emoji": "☹",
+          "name": "frowning face",
+          "shortname": ":frowning_face:",
+          "unicode": "2639",
+          "html": "&#9785;",
+          "category": "Smileys & Emotion (face-concerned)",
+          "order": ""
+        },
+        {
+          "emoji": "🙁",
+          "name": "slightly frowning face",
+          "shortname": ":slightly_frowning_face:",
+          "unicode": "1F641",
+          "html": "&#128577;",
+          "category": "Smileys & Emotion (face-concerned)",
+          "order": ""
+        },
+        {
+          "emoji": "☹️",
+          "name": "frowning face",
+          "shortname": ":frowning_face:",
+          "unicode": "2639 FE0F",
+          "html": "&#x2639;&#xFE0F;",
+          "category": "Smileys & Emotion (face-concerned)",
+          "order": ""
+        },
+        {
+          "emoji": "🥺",
+          "name": "pleading face",
+          "shortname": ":pleading_face:",
+          "unicode": "1F97A",
+          "html": "&#x1F97A;",
+          "category": "Smileys & Emotion (face-concerned)",
+          "order": ""
+        },
+        {
+          "emoji": "🥱",
+          "name": "yawning face",
+          "shortname": ":yawning_face:",
+          "unicode": "1F971",
+          "html": "&#x1F971;",
+          "category": "Smileys & Emotion (face-concerned)",
+          "order": ""
+        }
+      ]
+    },
+    {
+      "category": "Smileys & Emotion (face-neutral-skeptical)",
+      "emojis": [
+        {
+          "emoji": "😒",
+          "name": "unamused face",
+          "shortname": ":unamused:",
+          "unicode": "1f612",
+          "html": "&#128530;",
+          "category": "Smileys & Emotion (face-neutral-skeptical)",
+          "order": "41"
+        },
+        {
+          "emoji": "😏",
+          "name": "smirking face",
+          "shortname": ":smirk:",
+          "unicode": "1f60f",
+          "html": "&#128527;",
+          "category": "Smileys & Emotion (face-neutral-skeptical)",
+          "order": "26"
+        },
+        {
+          "emoji": "😑",
+          "name": "expressionless face",
+          "shortname": ":expressionless:",
+          "unicode": "1f611",
+          "html": "&#128529;",
+          "category": "Smileys & Emotion (face-neutral-skeptical)",
+          "order": "23"
+        },
+        {
+          "emoji": "😐",
+          "name": "neutral face",
+          "shortname": ":neutral_face:",
+          "unicode": "1f610",
+          "html": "&#128528;",
+          "category": "Smileys & Emotion (face-neutral-skeptical)",
+          "order": "22"
+        },
+        {
+          "emoji": "😬",
+          "name": "grimacing face",
+          "shortname": ":grimacing:",
+          "unicode": "1f62c",
+          "html": "&#128556;",
+          "category": "Smileys & Emotion (face-neutral-skeptical)",
+          "order": "60"
+        },
+        {
+          "emoji": "😶",
+          "name": "face without mouth",
+          "shortname": ":no_mouth:",
+          "unicode": "1f636",
+          "html": "&#128566;",
+          "category": "Smileys & Emotion (face-neutral-skeptical)",
+          "order": "24"
+        },
+        {
+          "emoji": "🤐",
+          "name": "zipper-mouth face",
+          "shortname": ":zipper_mouth:",
+          "unicode": "1f910",
+          "html": "&#129296;",
+          "category": "Smileys & Emotion (face-neutral-skeptical)",
+          "order": "30"
+        },
+        {
+          "emoji": "🙄",
+          "name": "face with rolling eyes",
+          "shortname": ":rolling_eyes:",
+          "unicode": "1f644",
+          "html": "&#128580;",
+          "category": "Smileys & Emotion (face-neutral-skeptical)",
+          "order": "25"
+        },
+        {
+          "emoji": "🤨",
+          "name": "face with raised eyebrow",
+          "shortname": ":face_with_raised_eyebrow:",
+          "unicode": "1F928",
+          "html": "&#x1F928;",
+          "category": "Smileys & Emotion (face-neutral-skeptical)",
+          "order": ""
+        },
+        {
+          "emoji": "🤥",
+          "name": "lying face",
+          "shortname": ":lying_face:",
+          "unicode": "1F925",
+          "html": "&#x1F925;",
+          "category": "Smileys & Emotion (face-neutral-skeptical)",
+          "order": ""
+        }
+      ]
+    },
+    {
+      "category": "Animals & Nature (animal-mammal)",
+      "emojis": [
+        {
+          "emoji": "🐶",
+          "name": "dog face",
+          "shortname": ":dog:",
+          "unicode": "1f436",
+          "html": "&#128054;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1345"
+        },
+        {
+          "emoji": "🐱",
+          "name": "cat face",
+          "shortname": ":cat:",
+          "unicode": "1f431",
+          "html": "&#128049;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1350"
+        },
+        {
+          "emoji": "🐷",
+          "name": "pig face",
+          "shortname": ":pig:",
+          "unicode": "1f437",
+          "html": "&#128055;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1364"
+        },
+        {
+          "emoji": "🐼",
+          "name": "panda",
+          "shortname": ":panda_face:",
+          "unicode": "1f43c",
+          "html": "&#128060;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1385"
+        },
+        {
+          "emoji": "🐾",
+          "name": "paw prints",
+          "shortname": ":feet:",
+          "unicode": "1f43e",
+          "html": "&#128062;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1386"
+        },
+        {
+          "emoji": "🐰",
+          "name": "rabbit face",
+          "shortname": ":rabbit:",
+          "unicode": "1f430",
+          "html": "&#128048;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1379"
+        },
+        {
+          "emoji": "🐻",
+          "name": "bear",
+          "shortname": ":bear:",
+          "unicode": "1f43b",
+          "html": "&#128059;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1383"
+        },
+        {
+          "emoji": "🐯",
+          "name": "tiger face",
+          "shortname": ":tiger:",
+          "unicode": "1f42f",
+          "html": "&#128047;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1353"
+        },
+        {
+          "emoji": "🐒",
+          "name": "monkey",
+          "shortname": ":monkey:",
+          "unicode": "1f412",
+          "html": "&#128018;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1343"
+        },
+        {
+          "emoji": "🐘",
+          "name": "elephant",
+          "shortname": ":elephant:",
+          "unicode": "1f418",
+          "html": "&#128024;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1373"
+        },
+        {
+          "emoji": "🐐",
+          "name": "goat",
+          "shortname": ":goat:",
+          "unicode": "1f410",
+          "html": "&#128016;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1370"
+        },
+        {
+          "emoji": "🐽",
+          "name": "pig nose",
+          "shortname": ":pig_nose:",
+          "unicode": "1f43d",
+          "html": "&#128061;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1367"
+        },
+        {
+          "emoji": "🐨",
+          "name": "koala",
+          "shortname": ":koala:",
+          "unicode": "1f428",
+          "html": "&#128040;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1384"
+        },
+        {
+          "emoji": "🐴",
+          "name": "horse face",
+          "shortname": ":horse:",
+          "unicode": "1f434",
+          "html": "&#128052;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1356"
+        },
+        {
+          "emoji": "🐵",
+          "name": "monkey face",
+          "shortname": ":monkey_face:",
+          "unicode": "1f435",
+          "html": "&#128053;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1342"
+        },
+        {
+          "emoji": "🐺",
+          "name": "wolf",
+          "shortname": ":wolf:",
+          "unicode": "1f43a",
+          "html": "&#128058;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1348"
+        },
+        {
+          "emoji": "🐮",
+          "name": "cow face",
+          "shortname": ":cow:",
+          "unicode": "1f42e",
+          "html": "&#128046;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1360"
+        },
+        {
+          "emoji": "🐹",
+          "name": "hamster",
+          "shortname": ":hamster:",
+          "unicode": "1f439",
+          "html": "&#128057;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1378"
+        },
+        {
+          "emoji": "🐭",
+          "name": "mouse face",
+          "shortname": ":mouse:",
+          "unicode": "1f42d",
+          "html": "&#128045;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1375"
+        },
+        {
+          "emoji": "🐑",
+          "name": "ewe",
+          "shortname": ":sheep:",
+          "unicode": "1f411",
+          "html": "&#128017;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1369"
+        },
+        {
+          "emoji": "🐎",
+          "name": "horse",
+          "shortname": ":racehorse:",
+          "unicode": "1f40e",
+          "html": "&#128014;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1357"
+        },
+        {
+          "emoji": "🐇",
+          "name": "rabbit",
+          "shortname": ":rabbit2:",
+          "unicode": "1f407",
+          "html": "&#128007;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1380"
+        },
+        {
+          "emoji": "🐕",
+          "name": "dog",
+          "shortname": ":dog2:",
+          "unicode": "1f415",
+          "html": "&#128021;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1346"
+        },
+        {
+          "emoji": "🐈",
+          "name": "cat",
+          "shortname": ":cat2:",
+          "unicode": "1f408",
+          "html": "&#128008;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1351"
+        },
+        {
+          "emoji": "🐩",
+          "name": "poodle",
+          "shortname": ":poodle:",
+          "unicode": "1f429",
+          "html": "&#128041;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1347"
+        },
+        {
+          "emoji": "🐫",
+          "name": "two-hump camel",
+          "shortname": ":camel:",
+          "unicode": "1f42b",
+          "html": "&#128043;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1372"
+        },
+        {
+          "emoji": "🐪",
+          "name": "camel",
+          "shortname": ":dromedary_camel:",
+          "unicode": "1f42a",
+          "html": "&#128042;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1371"
+        },
+        {
+          "emoji": "🐄",
+          "name": "cow",
+          "shortname": ":cow2:",
+          "unicode": "1f404",
+          "html": "&#128004;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1363"
+        },
+        {
+          "emoji": "🐖",
+          "name": "pig",
+          "shortname": ":pig2:",
+          "unicode": "1f416",
+          "html": "&#128022;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1365"
+        },
+        {
+          "emoji": "🐀",
+          "name": "rat",
+          "shortname": ":rat:",
+          "unicode": "1f400",
+          "html": "&#128000;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1377"
+        },
+        {
+          "emoji": "🐏",
+          "name": "ram",
+          "shortname": ":ram:",
+          "unicode": "1f40f",
+          "html": "&#128015;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1368"
+        },
+        {
+          "emoji": "🐅",
+          "name": "tiger",
+          "shortname": ":tiger2:",
+          "unicode": "1f405",
+          "html": "&#128005;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1354"
+        },
+        {
+          "emoji": "🐗",
+          "name": "boar",
+          "shortname": ":boar:",
+          "unicode": "1f417",
+          "html": "&#128023;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1366"
+        },
+        {
+          "emoji": "🐂",
+          "name": "ox",
+          "shortname": ":ox:",
+          "unicode": "1f402",
+          "html": "&#128002;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1361"
+        },
+        {
+          "emoji": "🐆",
+          "name": "leopard",
+          "shortname": ":leopard:",
+          "unicode": "1f406",
+          "html": "&#128006;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1355"
+        },
+        {
+          "emoji": "🐃",
+          "name": "water buffalo",
+          "shortname": ":water_buffalo:",
+          "unicode": "1f403",
+          "html": "&#128003;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1362"
+        },
+        {
+          "emoji": "🐁",
+          "name": "mouse",
+          "shortname": ":mouse2:",
+          "unicode": "1f401",
+          "html": "&#128001;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1376"
+        },
+        {
+          "emoji": "🦄",
+          "name": "unicorn",
+          "shortname": ":unicorn:",
+          "unicode": "1F984",
+          "html": "&#129412;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": ""
+        },
+        {
+          "emoji": "🦁",
+          "name": "lion",
+          "shortname": ":lion_face:",
+          "unicode": "1f981",
+          "html": "&#129409;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1352"
+        },
+        {
+          "emoji": "🐿",
+          "name": "chipmunk",
+          "shortname": ":chipmunk:",
+          "unicode": "1f43f",
+          "html": "&#128063;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": "1381"
+        },
+        {
+          "emoji": "🦍",
+          "name": "gorilla",
+          "shortname": ":gorilla:",
+          "unicode": "1F98D",
+          "html": "&#x1F98D;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": ""
+        },
+        {
+          "emoji": "🦧",
+          "name": "orangutan",
+          "shortname": ":orangutan:",
+          "unicode": "1F9A7",
+          "html": "&#x1F9A7;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": ""
+        },
+        {
+          "emoji": "🦮",
+          "name": "guide dog",
+          "shortname": ":guide_dog:",
+          "unicode": "1F9AE",
+          "html": "&#x1F9AE;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": ""
+        },
+        {
+          "emoji": "🐕‍🦺",
+          "name": "service dog",
+          "shortname": ":service_dog:",
+          "unicode": "1F415 200D 1F9BA",
+          "html": "&#x1F415;&#x200D;&#x1F9BA;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": ""
+        },
+        {
+          "emoji": "🦊",
+          "name": "fox",
+          "shortname": ":fox:",
+          "unicode": "1F98A",
+          "html": "&#x1F98A;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": ""
+        },
+        {
+          "emoji": "🦝",
+          "name": "raccoon",
+          "shortname": ":raccoon:",
+          "unicode": "1F99D",
+          "html": "&#x1F99D;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": ""
+        },
+        {
+          "emoji": "🦓",
+          "name": "zebra",
+          "shortname": ":zebra:",
+          "unicode": "1F993",
+          "html": "&#x1F993;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": ""
+        },
+        {
+          "emoji": "🦌",
+          "name": "deer",
+          "shortname": ":deer:",
+          "unicode": "1F98C",
+          "html": "&#x1F98C;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": ""
+        },
+        {
+          "emoji": "🦙",
+          "name": "llama",
+          "shortname": ":llama:",
+          "unicode": "1F999",
+          "html": "&#x1F999;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": ""
+        },
+        {
+          "emoji": "🦒",
+          "name": "giraffe",
+          "shortname": ":giraffe:",
+          "unicode": "1F992",
+          "html": "&#x1F992;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": ""
+        },
+        {
+          "emoji": "🦏",
+          "name": "rhinoceros",
+          "shortname": ":rhinoceros:",
+          "unicode": "1F98F",
+          "html": "&#x1F98F;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": ""
+        },
+        {
+          "emoji": "🦛",
+          "name": "hippopotamus",
+          "shortname": ":hippopotamus:",
+          "unicode": "1F99B",
+          "html": "&#x1F99B;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": ""
+        },
+        {
+          "emoji": "🐿️",
+          "name": "chipmunk",
+          "shortname": ":chipmunk:",
+          "unicode": "1F43F FE0F",
+          "html": "&#x1F43F;&#xFE0F;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": ""
+        },
+        {
+          "emoji": "🦔",
+          "name": "hedgehog",
+          "shortname": ":hedgehog:",
+          "unicode": "1F994",
+          "html": "&#x1F994;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": ""
+        },
+        {
+          "emoji": "🦇",
+          "name": "bat",
+          "shortname": ":bat:",
+          "unicode": "1F987",
+          "html": "&#x1F987;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": ""
+        },
+        {
+          "emoji": "🦥",
+          "name": "sloth",
+          "shortname": ":sloth:",
+          "unicode": "1F9A5",
+          "html": "&#x1F9A5;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": ""
+        },
+        {
+          "emoji": "🦦",
+          "name": "otter",
+          "shortname": ":otter:",
+          "unicode": "1F9A6",
+          "html": "&#x1F9A6;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": ""
+        },
+        {
+          "emoji": "🦨",
+          "name": "skunk",
+          "shortname": ":skunk:",
+          "unicode": "1F9A8",
+          "html": "&#x1F9A8;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": ""
+        },
+        {
+          "emoji": "🦘",
+          "name": "kangaroo",
+          "shortname": ":kangaroo:",
+          "unicode": "1F998",
+          "html": "&#x1F998;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": ""
+        },
+        {
+          "emoji": "🦡",
+          "name": "badger",
+          "shortname": ":badger:",
+          "unicode": "1F9A1",
+          "html": "&#x1F9A1;",
+          "category": "Animals & Nature (animal-mammal)",
+          "order": ""
+        }
+      ]
+    },
+    {
+      "category": "Smileys & Emotion (face-sleepy)",
+      "emojis": [
+        {
+          "emoji": "😔",
+          "name": "pensive face",
+          "shortname": ":pensive:",
+          "unicode": "1f614",
+          "html": "&#128532;",
+          "category": "Smileys & Emotion (face-sleepy)",
+          "order": "43"
+        },
+        {
+          "emoji": "😌",
+          "name": "relieved face",
+          "shortname": ":relieved:",
+          "unicode": "1f60c",
+          "html": "&#128524;",
+          "category": "Smileys & Emotion (face-sleepy)",
+          "order": "35"
+        },
+        {
+          "emoji": "😴",
+          "name": "sleeping face",
+          "shortname": ":sleeping:",
+          "unicode": "1f634",
+          "html": "&#128564;",
+          "category": "Smileys & Emotion (face-sleepy)",
+          "order": "34"
+        },
+        {
+          "emoji": "😪",
+          "name": "sleepy face",
+          "shortname": ":sleepy:",
+          "unicode": "1f62a",
+          "html": "&#128554;",
+          "category": "Smileys & Emotion (face-sleepy)",
+          "order": "32"
+        },
+        {
+          "emoji": "🤤",
+          "name": "drooling face",
+          "shortname": ":drooling_face:",
+          "unicode": "1F924",
+          "html": "&#x1F924;",
+          "category": "Smileys & Emotion (face-sleepy)",
+          "order": ""
+        }
+      ]
+    },
+    {
+      "category": "Symbols (other-symbol)",
+      "emojis": [
+        {
+          "emoji": "♻",
+          "name": "recycling symbol",
+          "shortname": ":recycle:",
+          "unicode": "267b",
+          "html": "&#9851;",
+          "category": "Symbols (other-symbol)",
+          "order": "2072"
+        },
+        {
+          "emoji": "✔️",
+          "name": "check mark",
+          "shortname": ":heavy_check_mark:",
+          "unicode": "2714",
+          "html": "&#10004;",
+          "category": "Symbols (other-symbol)",
+          "order": "2080"
+        },
+        {
+          "emoji": "✅",
+          "name": "check mark button",
+          "shortname": ":white_check_mark:",
+          "unicode": "2705",
+          "html": "&#9989;",
+          "category": "Symbols (other-symbol)",
+          "order": "2078"
+        },
+        {
+          "emoji": "©️",
+          "name": "copyright",
+          "shortname": ":copyright:",
+          "unicode": "00A9 FE0F",
+          "html": "&copy;️",
+          "category": "Symbols (other-symbol)",
+          "order": ""
+        },
+        {
+          "emoji": "☑️",
+          "name": "check box with check",
+          "shortname": ":ballot_box_with_check:",
+          "unicode": "2611",
+          "html": "&#9745;",
+          "category": "Symbols (other-symbol)",
+          "order": "2079"
+        },
+        {
+          "emoji": "‼️",
+          "name": "double exclamation mark",
+          "shortname": ":bangbang:",
+          "unicode": "203c",
+          "html": "&#8252;",
+          "category": "Symbols (other-symbol)",
+          "order": "2096"
+        },
+        {
+          "emoji": "❌",
+          "name": "cross mark",
+          "shortname": ":x:",
+          "unicode": "274c",
+          "html": "&#10060;",
+          "category": "Symbols (other-symbol)",
+          "order": "2082"
+        },
+        {
+          "emoji": "❗",
+          "name": "exclamation mark",
+          "shortname": ":exclamation:",
+          "unicode": "2757",
+          "html": "&#10071;",
+          "category": "Symbols (other-symbol)",
+          "order": "2101"
+        },
+        {
+          "emoji": "✖️",
+          "name": "multiplication sign",
+          "shortname": ":heavy_multiplication_x:",
+          "unicode": "2716",
+          "html": "&#10006;",
+          "category": "Symbols (other-symbol)",
+          "order": "2081"
+        },
+        {
+          "emoji": "⭕",
+          "name": "hollow red circle",
+          "shortname": ":o:",
+          "unicode": "2b55",
+          "html": "&#11093;",
+          "category": "Symbols (other-symbol)",
+          "order": "2077"
+        },
+        {
+          "emoji": "™️",
+          "name": "trade mark",
+          "shortname": ":trade_mark:",
+          "unicode": "2122 FE0F",
+          "html": "&trade;️",
+          "category": "Symbols (other-symbol)",
+          "order": ""
+        },
+        {
+          "emoji": "®️",
+          "name": "registered",
+          "shortname": ":registered:",
+          "unicode": "00AE FE0F",
+          "html": "&reg;️",
+          "category": "Symbols (other-symbol)",
+          "order": ""
+        },
+        {
+          "emoji": "❓",
+          "name": "question mark",
+          "shortname": ":question:",
+          "unicode": "2753",
+          "html": "&#10067;",
+          "category": "Symbols (other-symbol)",
+          "order": "2098"
+        },
+        {
+          "emoji": "✳️",
+          "name": "eight-spoked asterisk",
+          "shortname": ":eight_spoked_asterisk:",
+          "unicode": "2733",
+          "html": "&#10035;",
+          "category": "Symbols (other-symbol)",
+          "order": "2093"
+        },
+        {
+          "emoji": "❕",
+          "name": "white exclamation mark",
+          "shortname": ":grey_exclamation:",
+          "unicode": "2755",
+          "html": "&#10069;",
+          "category": "Symbols (other-symbol)",
+          "order": "2100"
+        },
+        {
+          "emoji": "⁉️",
+          "name": "exclamation question mark",
+          "shortname": ":interrobang:",
+          "unicode": "2049",
+          "html": "&#8265;",
+          "category": "Symbols (other-symbol)",
+          "order": "2097"
+        },
+        {
+          "emoji": "🔱",
+          "name": "trident emblem",
+          "shortname": ":trident:",
+          "unicode": "1f531",
+          "html": "&#128305;",
+          "category": "Symbols (other-symbol)",
+          "order": "2076"
+        },
+        {
+          "emoji": "➰",
+          "name": "curly loop",
+          "shortname": ":curly_loop:",
+          "unicode": "27b0",
+          "html": "&#10160;",
+          "category": "Symbols (other-symbol)",
+          "order": "2090"
+        },
+        {
+          "emoji": "〰",
+          "name": "wavy dash",
+          "shortname": ":wavy_dash:",
+          "unicode": "3030",
+          "html": "&#12336;",
+          "category": "Symbols (other-symbol)",
+          "order": "2102"
+        },
+        {
+          "emoji": "✴️",
+          "name": "eight-pointed star",
+          "shortname": ":eight_pointed_black_star:",
+          "unicode": "2734",
+          "html": "&#10036;",
+          "category": "Symbols (other-symbol)",
+          "order": "2094"
+        },
+        {
+          "emoji": "➕",
+          "name": "plus sign",
+          "shortname": ":heavy_plus_sign:",
+          "unicode": "2795",
+          "html": "&#10133;",
+          "category": "Symbols (other-symbol)",
+          "order": "2084"
+        },
+        {
+          "emoji": "📛",
+          "name": "name badge",
+          "shortname": ":name_badge:",
+          "unicode": "1f4db",
+          "html": "&#128219;",
+          "category": "Symbols (other-symbol)",
+          "order": "2073"
+        },
+        {
+          "emoji": "❇️",
+          "name": "sparkle",
+          "shortname": ":sparkle:",
+          "unicode": "2747",
+          "html": "&#10055;",
+          "category": "Symbols (other-symbol)",
+          "order": "2095"
+        },
+        {
+          "emoji": "➖",
+          "name": "minus sign",
+          "shortname": ":heavy_minus_sign:",
+          "unicode": "2796",
+          "html": "&#10134;",
+          "category": "Symbols (other-symbol)",
+          "order": "2088"
+        },
+        {
+          "emoji": "〽️",
+          "name": "part alternation mark",
+          "shortname": ":part_alternation_mark:",
+          "unicode": "303d",
+          "html": "&#12349;",
+          "category": "Symbols (other-symbol)",
+          "order": "2092"
+        },
+        {
+          "emoji": "❎",
+          "name": "cross mark button",
+          "shortname": ":negative_squared_cross_mark:",
+          "unicode": "274e",
+          "html": "&#10062;",
+          "category": "Symbols (other-symbol)",
+          "order": "2083"
+        },
+        {
+          "emoji": "❔",
+          "name": "white question mark",
+          "shortname": ":grey_question:",
+          "unicode": "2754",
+          "html": "&#10068;",
+          "category": "Symbols (other-symbol)",
+          "order": "2099"
+        },
+        {
+          "emoji": "🔰",
+          "name": "Japanese symbol for beginner",
+          "shortname": ":beginner:",
+          "unicode": "1f530",
+          "html": "&#128304;",
+          "category": "Symbols (other-symbol)",
+          "order": "2075"
+        },
+        {
+          "emoji": "➿",
+          "name": "double curly loop",
+          "shortname": ":loop:",
+          "unicode": "27bf",
+          "html": "&#10175;",
+          "category": "Symbols (other-symbol)",
+          "order": "2091"
+        },
+        {
+          "emoji": "➗",
+          "name": "division sign",
+          "shortname": ":heavy_division_sign:",
+          "unicode": "2797",
+          "html": "&#10135;",
+          "category": "Symbols (other-symbol)",
+          "order": "2089"
+        },
+        {
+          "emoji": "⚜",
+          "name": "fleur-de-lis",
+          "shortname": ":fleur-de-lis:",
+          "unicode": "269c",
+          "html": "&#9884;",
+          "category": "Symbols (other-symbol)",
+          "order": "2074"
+        },
+        {
+          "emoji": "©",
+          "name": "copyright",
+          "shortname": ":copyright:",
+          "unicode": "00a9",
+          "html": "&copy;",
+          "category": "Symbols (other-symbol)",
+          "order": "2103"
+        },
+        {
+          "emoji": "®",
+          "name": "registered",
+          "shortname": ":registered:",
+          "unicode": "00ae",
+          "html": "&reg;",
+          "category": "Symbols (other-symbol)",
+          "order": "2104"
+        },
+        {
+          "emoji": "™",
+          "name": "trade mark",
+          "shortname": ":tm:",
+          "unicode": "2122",
+          "html": "&trade;",
+          "category": "Symbols (other-symbol)",
+          "order": "2105"
+        },
+        {
+          "emoji": "⚕️",
+          "name": "medical symbol",
+          "shortname": ":medical_symbol:",
+          "unicode": "2695 FE0F",
+          "html": "&#x2695;&#xFE0F;",
+          "category": "Symbols (other-symbol)",
+          "order": ""
+        },
+        {
+          "emoji": "⚕",
+          "name": "medical symbol",
+          "shortname": ":medical_symbol:",
+          "unicode": "2695",
+          "html": "&#x2695;",
+          "category": "Symbols (other-symbol)",
+          "order": ""
+        },
+        {
+          "emoji": "♾️",
+          "name": "infinity",
+          "shortname": ":infinity:",
+          "unicode": "267E FE0F",
+          "html": "&#x267E;&#xFE0F;",
+          "category": "Symbols (other-symbol)",
+          "order": ""
+        },
+        {
+          "emoji": "♾",
+          "name": "infinity",
+          "shortname": ":infinity:",
+          "unicode": "267E",
+          "html": "&#x267E;",
+          "category": "Symbols (other-symbol)",
+          "order": ""
+        },
+        {
+          "emoji": "♻️",
+          "name": "recycling symbol",
+          "shortname": ":recycling_symbol:",
+          "unicode": "267B FE0F",
+          "html": "&#x267B;&#xFE0F;",
+          "category": "Symbols (other-symbol)",
+          "order": ""
+        },
+        {
+          "emoji": "⚜️",
+          "name": "fleur-de-lis",
+          "shortname": ":fleurde-lis:",
+          "unicode": "269C FE0F",
+          "html": "&#x269C;&#xFE0F;",
+          "category": "Symbols (other-symbol)",
+          "order": ""
+        },
+        {
+          "emoji": "☑",
+          "name": "check box with check",
+          "shortname": ":check_box_with_check:",
+          "unicode": "2611",
+          "html": "&#x2611;",
+          "category": "Symbols (other-symbol)",
+          "order": ""
+        },
+        {
+          "emoji": "✔",
+          "name": "check mark",
+          "shortname": ":check_mark:",
+          "unicode": "2714",
+          "html": "&#x2714;",
+          "category": "Symbols (other-symbol)",
+          "order": ""
+        },
+        {
+          "emoji": "✖",
+          "name": "multiplication sign",
+          "shortname": ":multiplication_sign:",
+          "unicode": "2716",
+          "html": "&#x2716;",
+          "category": "Symbols (other-symbol)",
+          "order": ""
+        },
+        {
+          "emoji": "〽",
+          "name": "part alternation mark",
+          "shortname": ":part_alternation_mark:",
+          "unicode": "303D",
+          "html": "&#x303D;",
+          "category": "Symbols (other-symbol)",
+          "order": ""
+        },
+        {
+          "emoji": "✳",
+          "name": "eight-spoked asterisk",
+          "shortname": ":eightspoked_asterisk:",
+          "unicode": "2733",
+          "html": "&#x2733;",
+          "category": "Symbols (other-symbol)",
+          "order": ""
+        },
+        {
+          "emoji": "✴",
+          "name": "eight-pointed star",
+          "shortname": ":eightpointed_star:",
+          "unicode": "2734",
+          "html": "&#x2734;",
+          "category": "Symbols (other-symbol)",
+          "order": ""
+        },
+        {
+          "emoji": "❇",
+          "name": "sparkle",
+          "shortname": ":sparkle:",
+          "unicode": "2747",
+          "html": "&#x2747;",
+          "category": "Symbols (other-symbol)",
+          "order": ""
+        },
+        {
+          "emoji": "‼",
+          "name": "double exclamation mark",
+          "shortname": ":double_exclamation_mark:",
+          "unicode": "203C",
+          "html": "&#x203C;",
+          "category": "Symbols (other-symbol)",
+          "order": ""
+        },
+        {
+          "emoji": "⁉",
+          "name": "exclamation question mark",
+          "shortname": ":exclamation_question_mark:",
+          "unicode": "2049",
+          "html": "&#x2049;",
+          "category": "Symbols (other-symbol)",
+          "order": ""
+        },
+        {
+          "emoji": "〰️",
+          "name": "wavy dash",
+          "shortname": ":wavy_dash:",
+          "unicode": "3030 FE0F",
+          "html": "&#x3030;&#xFE0F;",
+          "category": "Symbols (other-symbol)",
+          "order": ""
+        }
+      ]
+    },
+    {
+      "category": "People & Body (hand-fingers-closed)",
+      "emojis": [
+        {
+          "emoji": "👍🏿",
+          "name": "thumbs up: dark skin tone",
+          "shortname": ":dark_skin_tone:",
+          "unicode": "1F44D 1F3FF",
+          "html": "&#128077;&#127999;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "👍🏾",
+          "name": "thumbs up: medium-dark skin tone",
+          "shortname": ":mediumdark_skin_tone:",
+          "unicode": "1F44D 1F3FE",
+          "html": "&#128077;&#127998;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "👍🏽",
+          "name": "thumbs up: medium skin tone",
+          "shortname": ":medium_skin_tone:",
+          "unicode": "1F44D 1F3FD",
+          "html": "&#128077;&#127997;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "👍🏼",
+          "name": "thumbs up: medium-light skin tone",
+          "shortname": ":mediumlight_skin_tone:",
+          "unicode": "1F44D 1F3FC",
+          "html": "&#128077;&#127996;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "👍🏻",
+          "name": "thumbs up: light skin tone",
+          "shortname": ":light_skin_tone:",
+          "unicode": "1F44D 1F3FB",
+          "html": "&#128077;&#127995;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "👍",
+          "name": "thumbs up",
+          "shortname": ":thumbsup:",
+          "unicode": "1f44d",
+          "html": "&#128077;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": "1176"
+        },
+        {
+          "emoji": "👊🏿",
+          "name": "oncoming fist: dark skin tone",
+          "shortname": ":dark_skin_tone:",
+          "unicode": "1F44A 1F3FF",
+          "html": "&#128074;&#127999;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "👊🏾",
+          "name": "oncoming fist: medium-dark skin tone",
+          "shortname": ":mediumdark_skin_tone:",
+          "unicode": "1F44A 1F3FE",
+          "html": "&#128074;&#127998;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "👊🏽",
+          "name": "oncoming fist: medium skin tone",
+          "shortname": ":medium_skin_tone:",
+          "unicode": "1F44A 1F3FD",
+          "html": "&#128074;&#127997;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "👊🏼",
+          "name": "oncoming fist: medium-light skin tone",
+          "shortname": ":mediumlight_skin_tone:",
+          "unicode": "1F44A 1F3FC",
+          "html": "&#128074;&#127996;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "👊🏻",
+          "name": "oncoming fist: light skin tone",
+          "shortname": ":light_skin_tone:",
+          "unicode": "1F44A 1F3FB",
+          "html": "&#128074;&#127995;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "👊",
+          "name": "oncoming fist",
+          "shortname": ":oncoming_fist:",
+          "unicode": "1F44A",
+          "html": "&#128074;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "👎🏿",
+          "name": "thumbs down: dark skin tone",
+          "shortname": ":dark_skin_tone:",
+          "unicode": "1F44E 1F3FF",
+          "html": "&#128078;&#127999;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "👎🏾",
+          "name": "thumbs down: medium-dark skin tone",
+          "shortname": ":mediumdark_skin_tone:",
+          "unicode": "1F44E 1F3FE",
+          "html": "&#128078;&#127998;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "👎🏽",
+          "name": "thumbs down: medium skin tone",
+          "shortname": ":medium_skin_tone:",
+          "unicode": "1F44E 1F3FD",
+          "html": "&#128078;&#127997;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "👎🏼",
+          "name": "thumbs down: medium-light skin tone",
+          "shortname": ":mediumlight_skin_tone:",
+          "unicode": "1F44E 1F3FC",
+          "html": "&#128078;&#127996;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "👎🏻",
+          "name": "thumbs down: light skin tone",
+          "shortname": ":light_skin_tone:",
+          "unicode": "1F44E 1F3FB",
+          "html": "&#128078;&#127995;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "👎",
+          "name": "thumbs down",
+          "shortname": ":thumbsdown:",
+          "unicode": "1f44e",
+          "html": "&#128078;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": "1182"
+        },
+        {
+          "emoji": "✊🏿",
+          "name": "raised fist: dark skin tone",
+          "shortname": ":dark_skin_tone:",
+          "unicode": "270A 1F3FF",
+          "html": "&#9994;&#127999;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "✊🏾",
+          "name": "raised fist: medium-dark skin tone",
+          "shortname": ":mediumdark_skin_tone:",
+          "unicode": "270A 1F3FE",
+          "html": "&#9994;&#127998;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "✊🏽",
+          "name": "raised fist: medium skin tone",
+          "shortname": ":medium_skin_tone:",
+          "unicode": "270A 1F3FD",
+          "html": "&#9994;&#127997;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "✊🏼",
+          "name": "raised fist: medium-light skin tone",
+          "shortname": ":mediumlight_skin_tone:",
+          "unicode": "270A 1F3FC",
+          "html": "&#9994;&#127996;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "✊🏻",
+          "name": "raised fist: light skin tone",
+          "shortname": ":light_skin_tone:",
+          "unicode": "270A 1F3FB",
+          "html": "&#9994;&#127995;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "✊",
+          "name": "raised fist",
+          "shortname": ":fist:",
+          "unicode": "270a",
+          "html": "&#9994;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": "1188"
+        },
+        {
+          "emoji": "🤛",
+          "name": "left-facing fist",
+          "shortname": ":leftfacing_fist:",
+          "unicode": "1F91B",
+          "html": "&#x1F91B;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "🤛🏻",
+          "name": "left-facing fist: light skin tone",
+          "shortname": ":light_skin_tone:",
+          "unicode": "1F91B 1F3FB",
+          "html": "&#x1F91B;&#x1F3FB;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "🤛🏼",
+          "name": "left-facing fist: medium-light skin tone",
+          "shortname": ":mediumlight_skin_tone:",
+          "unicode": "1F91B 1F3FC",
+          "html": "&#x1F91B;&#x1F3FC;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "🤛🏽",
+          "name": "left-facing fist: medium skin tone",
+          "shortname": ":medium_skin_tone:",
+          "unicode": "1F91B 1F3FD",
+          "html": "&#x1F91B;&#x1F3FD;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "🤛🏾",
+          "name": "left-facing fist: medium-dark skin tone",
+          "shortname": ":mediumdark_skin_tone:",
+          "unicode": "1F91B 1F3FE",
+          "html": "&#x1F91B;&#x1F3FE;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "🤛🏿",
+          "name": "left-facing fist: dark skin tone",
+          "shortname": ":dark_skin_tone:",
+          "unicode": "1F91B 1F3FF",
+          "html": "&#x1F91B;&#x1F3FF;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "🤜",
+          "name": "right-facing fist",
+          "shortname": ":rightfacing_fist:",
+          "unicode": "1F91C",
+          "html": "&#x1F91C;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "🤜🏻",
+          "name": "right-facing fist: light skin tone",
+          "shortname": ":light_skin_tone:",
+          "unicode": "1F91C 1F3FB",
+          "html": "&#x1F91C;&#x1F3FB;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "🤜🏼",
+          "name": "right-facing fist: medium-light skin tone",
+          "shortname": ":mediumlight_skin_tone:",
+          "unicode": "1F91C 1F3FC",
+          "html": "&#x1F91C;&#x1F3FC;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "🤜🏽",
+          "name": "right-facing fist: medium skin tone",
+          "shortname": ":medium_skin_tone:",
+          "unicode": "1F91C 1F3FD",
+          "html": "&#x1F91C;&#x1F3FD;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "🤜🏾",
+          "name": "right-facing fist: medium-dark skin tone",
+          "shortname": ":mediumdark_skin_tone:",
+          "unicode": "1F91C 1F3FE",
+          "html": "&#x1F91C;&#x1F3FE;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        },
+        {
+          "emoji": "🤜🏿",
+          "name": "right-facing fist: dark skin tone",
+          "shortname": ":dark_skin_tone:",
+          "unicode": "1F91C 1F3FF",
+          "html": "&#x1F91C;&#x1F3FF;",
+          "category": "People & Body (hand-fingers-closed)",
+          "order": ""
+        }
+      ]
+    }
+  ]
+}
