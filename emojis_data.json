@@ -1,645 +1,1927 @@
 {
   "emojis": [
-    "1fa84",
-    "1f600",
-    "1f603",
-    "1f604",
-    "1f601",
-    "1f606",
-    "1f605",
-    "1f602",
-    "1f923",
-    "1f62d",
-    "1f609",
-    "1f617",
-    "1f619",
-    "1f61a",
-    "1f618",
-    "1f970",
-    "1f60d",
-    "1f929",
-    "1f973",
-    "1f643",
-    "1f642",
-    "1f972",
-    "1f979",
-    "1f60b",
-    "1f61b",
-    "1f61d",
-    "1f61c",
-    "1f92a",
-    "1f607",
-    "1f60a",
-    "263a-fe0f",
-    "1f60f",
-    "1f60c",
-    "1f614",
-    "1f611",
-    "1f610",
-    "1f636",
-    "1fae1",
-    "1f914",
-    "1f92b",
-    "1fae2",
-    "1f92d",
-    "1f971",
-    "1f917",
-    "1fae3",
-    "1f631",
-    "1f928",
-    "1f9d0",
-    "1f612",
-    "1f644",
-    "1f62e-200d-1f4a8",
-    "1f624",
-    "1f620",
-    "1f621",
-    "1f92c",
-    "1f97a",
-    "1f61f",
-    "1f625",
-    "1f622",
-    "2639-fe0f",
-    "1f641",
-    "1fae4",
-    "1f615",
-    "1f910",
-    "1f630",
-    "1f628",
-    "1f627",
-    "1f626",
-    "1f62e",
-    "1f62f",
-    "1f632",
-    "1f633",
-    "1f92f",
-    "1f62c",
-    "1f613",
-    "1f61e",
-    "1f616",
-    "1f623",
-    "1f629",
-    "1f62b",
-    "1f635",
-    "1fae5",
-    "1f634",
-    "1f62a",
-    "1f924",
-    "1f31b",
-    "1f31c",
-    "1f31a",
-    "1f31d",
-    "1f31e",
-    "1fae0",
-    "1f636-200d-1f32b-fe0f",
-    "1f974",
-    "1f975",
-    "1f976",
-    "1f922",
-    "1f92e",
-    "1f927",
-    "1f912",
-    "1f915",
-    "1f637",
-    "1f920",
-    "1f911",
-    "1f60e",
-    "1f913",
-    "1f978",
-    "1f925",
-    "1f921",
-    "1f47b",
-    "1f4a9",
-    "1f47d",
-    "1f47e",
-    "1f916",
-    "1f479",
-    "1f47a",
-    "1f383",
-    "1f608",
-    "1f47f",
-    "1f525",
-    "1f4ab",
-    "2b50",
-    "1f31f",
-    "1f4a5",
-    "1f4af",
-    "1fae7",
-    "1f573-fe0f",
-    "1f38a",
-    "1fa77",
-    "2764-fe0f",
-    "1f9e1",
-    "1f49b",
-    "1f49a",
-    "1fa75",
-    "1f499",
-    "1f49c",
-    "1f90e",
-    "1fa76",
-    "1f5a4",
-    "1f90d",
-    "2665-fe0f",
-    "1f498",
-    "1f49d",
-    "1f496",
-    "1f497",
-    "1f493",
-    "1f49e",
-    "1f495",
-    "1f48c",
-    "1f49f",
-    "2763-fe0f",
-    "2764-fe0f-200d-1fa79",
-    "1f494",
-    "1f48b",
-    "1fac2",
-    "1f464",
-    "1f465",
-    "1f5e3-fe0f",
-    "1f463",
-    "1f9e0",
-    "1fac0",
-    "1fac1",
-    "1fa78",
-    "1f9a0",
-    "1f9b7",
-    "1f9b4",
-    "1f480",
-    "1f440",
-    "1f441-fe0f",
-    "1f444",
-    "1fae6",
-    "1f44d",
-    "1f937",
-    "1fa82",
-    "1f490",
-    "1f339",
-    "1f940",
-    "1f33a",
-    "1f337",
-    "1f338",
-    "1fab7",
-    "1f4ae",
-    "1f3f5-fe0f",
-    "1fabb",
-    "1f33b",
-    "1f33c",
-    "1f342",
-    "1f341",
-    "1f344",
-    "1f33e",
-    "1f331",
-    "1f33f",
-    "1f343",
-    "1f340",
-    "1fab4",
-    "1f335",
-    "1f334",
-    "1f333",
-    "1f332",
-    "1fab9",
-    "26f0-fe0f",
-    "1f3d4-fe0f",
-    "1fab5",
-    "1faa8",
-    "26c4",
-    "1f30a",
-    "1f32c-fe0f",
-    "1f300",
-    "1f32a-fe0f",
-    "1f30b",
-    "1f3de-fe0f",
-    "1f3d6-fe0f",
-    "26c5",
-    "2601-fe0f",
-    "1f327-fe0f",
-    "1f329-fe0f",
-    "1f4a7",
-    "2602-fe0f",
-    "26a1",
-    "1f308",
-    "2604-fe0f",
-    "1f30c",
-    "1f30d",
-    "1fa90",
-    "1f648",
-    "1f435",
-    "1f981",
-    "1f42f",
-    "1f431",
-    "1f436",
-    "1f43a",
-    "1f43b",
-    "1f428",
-    "1f43c",
-    "1f42d",
-    "1f430",
-    "1f98a",
-    "1f99d",
-    "1f42e",
-    "1f437",
-    "1f984",
-    "1f422",
-    "1f438",
-    "1f429",
-    "1f410",
-    "1f98c",
-    "1f999",
-    "1f9a5",
-    "1f994",
-    "1f987",
-    "1f989",
-    "1f426",
-    "1f414",
-    "1fabf",
-    "1f54a-fe0f",
-    "1f9a9",
-    "1f427",
-    "1f988",
-    "1f433",
-    "1f41f",
-    "1f99e",
-    "1f980",
-    "1f419",
-    "1f9aa",
-    "1fab8",
-    "1f982",
-    "1f577-fe0f",
-    "1f41a",
-    "1f40c",
-    "1f997",
-    "1fab2",
-    "1fab3",
-    "1f41d",
-    "1f41e",
-    "1f98b",
-    "1f43e",
-    "1f353",
-    "1f352",
-    "1f34e",
-    "1f349",
-    "1f34a",
-    "1f96d",
-    "1f34d",
-    "1f34c",
-    "1f34b",
-    "1f348",
-    "1f350",
-    "1f95d",
-    "1fad2",
-    "1fad0",
-    "1f347",
-    "1f965",
-    "1f345",
-    "1f336-fe0f",
-    "1fada",
-    "1f955",
-    "1f360",
-    "1f9c5",
-    "1f33d",
-    "1f966",
-    "1f952",
-    "1f96c",
-    "1fadb",
-    "1fad1",
-    "1f951",
-    "1f9c4",
-    "1f954",
-    "1fad8",
-    "1f330",
-    "1f95c",
-    "1f35e",
-    "1fad3",
-    "1f950",
-    "1f96f",
-    "1f9c7",
-    "1f95e",
-    "1f373",
-    "1f9c0",
-    "1f953",
-    "1f969",
-    "1f357",
-    "1f356",
-    "1f354",
-    "1f32d",
-    "1f96a",
-    "1f968",
-    "1f35f",
-    "1fad4",
-    "1f32e",
-    "1f32f",
-    "1f959",
-    "1f9c6",
-    "1f958",
-    "1f35d",
-    "1f96b",
-    "1fad5",
-    "1f963",
-    "1f957",
-    "1f372",
-    "1f35b",
-    "1f35c",
-    "1f363",
-    "1f364",
-    "1f961",
-    "1f35a",
-    "1f371",
-    "1f95f",
-    "1f362",
-    "1f359",
-    "1f358",
-    "1f365",
-    "1f361",
-    "1f960",
-    "1f367",
-    "1f368",
-    "1f366",
-    "1f967",
-    "1f370",
-    "1f36e",
-    "1f382",
-    "1f9c1",
-    "1f36d",
-    "1f36c",
-    "1f36b",
-    "1f369",
-    "1f36a",
-    "1f36f",
-    "1f9c2",
-    "1f9c8",
-    "1f37f",
-    "1f9ca",
-    "1f964",
-    "1f9cb",
-    "1f9c3",
-    "1f95b",
-    "1f37c",
-    "1f375",
-    "2615",
-    "1fad6",
-    "1f9c9",
-    "1f942",
-    "1f37e",
-    "1f377",
-    "1fad7",
-    "1f379",
-    "1f376",
-    "1f962",
-    "1f37d-fe0f",
-    "1f6d1",
-    "1f6a7",
-    "1f6a8",
-    "26fd",
-    "1f6df",
-    "2693",
-    "1f687",
-    "1f6a6",
-    "1f6f4",
-    "1f6b2",
-    "1f3cd-fe0f",
-    "1f697",
-    "1f69a",
-    "1f69b",
-    "1f69c",
-    "1f3ce-fe0f",
-    "1f695",
-    "1f68c",
-    "1f682",
-    "1f6f6",
-    "1f6a0",
-    "1f6a1",
-    "1f6f8",
-    "1f680",
-    "2708-fe0f",
-    "1f3a2",
-    "1f3a1",
-    "1f3a0",
-    "1f3aa",
-    "1f5fc",
-    "1f5ff",
-    "1f3db-fe0f",
-    "1f3f0",
-    "1f3df-fe0f",
-    "1f3da-fe0f",
-    "1f3e0",
-    "1f3d5-fe0f",
-    "1f307",
-    "1f3dd-fe0f",
-    "1f6e3-fe0f",
-    "1f9f3",
-    "1f388",
-    "1f380",
-    "1f381",
-    "1f386",
-    "1fa94",
-    "1faa9",
-    "1f397-fe0f",
-    "1f947",
-    "1f948",
-    "1f949",
-    "1f3c5",
-    "1f396-fe0f",
-    "1f3c6",
-    "26bd",
-    "26be",
-    "1f94e",
-    "1f3c0",
-    "1f3d0",
-    "1f3c8",
-    "1f3c9",
-    "1f3be",
-    "1f945",
-    "1f3f8",
-    "1f94d",
-    "1f3cf",
-    "1f3d1",
-    "1f3d2",
-    "1f94c",
-    "1f6f7",
-    "1f3bf",
-    "26f8-fe0f",
-    "1f6fc",
-    "1fa70",
-    "1f6f9",
-    "26f3",
-    "1f3af",
-    "1f3f9",
-    "1f94f",
-    "1fa83",
-    "1fa81",
-    "1f3a3",
-    "1f93f",
-    "1f3bd",
-    "1f94b",
-    "1f94a",
-    "1f3b1",
-    "1f3d3",
-    "1f3b3",
-    "265f-fe0f",
-    "1fa80",
-    "1f9e9",
-    "1f3ae",
-    "1f3b2",
-    "1f3b0",
-    "1f3b4",
-    "1f004",
-    "1f0cf",
-    "1f4f7",
-    "1f5bc-fe0f",
-    "1f3a8",
-    "1f58c-fe0f",
-    "1f58d-fe0f",
-    "1faa1",
-    "1f9f5",
-    "1f9f6",
-    "1f3b9",
-    "1f3b7",
-    "1f3ba",
-    "1f3b8",
-    "1fa95",
-    "1f3bb",
-    "1fa98",
-    "1f941",
-    "1fa87",
-    "1fa88",
-    "1fa97",
-    "1f3a4",
-    "1f3a7",
-    "1f39a-fe0f",
-    "1f39b-fe0f",
-    "1f399-fe0f",
-    "1f4fb",
-    "1f4fa",
-    "1f4fc",
-    "1f39e-fe0f",
-    "1f3ac",
-    "1f3ad",
-    "1f39f-fe0f",
-    "1f4f1",
-    "260e-fe0f",
-    "1f4df",
-    "1f4e0",
-    "1f50c",
-    "1f50b",
-    "1faab",
-    "1f4be",
-    "1f4bf",
-    "1f4bb",
-    "1f5a8-fe0f",
-    "1f4b8",
-    "2696-fe0f",
-    "1f6d2",
-    "1f6cd-fe0f",
-    "1f4a1",
-    "1f9f1",
-    "1f6cb-fe0f",
-    "1f9f9",
-    "1f9fc",
-    "1fa92",
-    "1faae",
-    "1f9fa",
-    "1f9e6",
-    "1f455",
-    "1f457",
-    "1f393",
-    "1f452",
-    "1f451",
-    "1faad",
-    "1f45c",
-    "1f48d",
-    "1f48e",
-    "1f460",
-    "1f45f",
-    "1f97f",
-    "1f9ea",
-    "1f321-fe0f",
-    "1fa7a",
-    "1f9ec",
-    "1f52d",
-    "1f52c",
-    "1f9f2",
-    "1f6e0-fe0f",
-    "26cf-fe0f",
-    "2699-fe0f",
-    "26d3-fe0f",
-    "1f587-fe0f",
-    "1f4cf",
-    "1f5d1-fe0f",
-    "1f58a-fe0f",
-    "2712-fe0f",
-    "270f-fe0f",
-    "1f4da",
-    "1f5c3-fe0f",
-    "1f4ca",
-    "1f4c8",
-    "1f4c9",
-    "2702-fe0f",
-    "1f4f0",
-    "1f4e6",
-    "1f5f3-fe0f",
-    "231a",
-    "1f570-fe0f",
-    "231b",
-    "23f3",
-    "23f0",
-    "1f514",
-    "1f4e3",
-    "1f50e",
-    "1f52e",
-    "1f9ff",
-    "1f3fa",
-    "1faa4",
-    "1f5dd-fe0f",
-    "1f512",
-    "2648",
-    "2649",
-    "264a",
-    "264b",
-    "264c",
-    "264d",
-    "264e",
-    "264f",
-    "2650",
-    "2651",
-    "2652",
-    "2653",
-    "26ce",
-    "2757",
-    "2753",
-    "2049-fe0f",
-    "1f198",
-    "2668-fe0f",
-    "1f4f4",
-    "1f508",
-    "1f3b6",
-    "2622-fe0f",
-    "2623-fe0f",
-    "26a0-fe0f",
-    "267b-fe0f",
-    "2705",
-    "1f195",
-    "1f193",
-    "1f199",
-    "1f197",
-    "1f192",
-    "1f522",
-    "1f6ae",
-    "262e-fe0f",
-    "262f-fe0f",
-    "267e-fe0f",
-    "2716-fe0f",
-    "2795",
-    "2796",
-    "2797",
-    "27b0",
-    "27bf",
-    "3030-fe0f",
-    "a9-fe0f",
-    "ae-fe0f",
-    "2122-fe0f",
-    "2660-fe0f",
-    "1f5ef-fe0f",
-    "1f4ac"
+    {
+      "unicode": "1fa84"
+    },
+    {
+      "unicode": "1f600"
+    },
+    {
+      "unicode": "1f603"
+    },
+    {
+      "unicode": "1f604"
+    },
+    {
+      "unicode": "1f601"
+    },
+    {
+      "unicode": "1f606"
+    },
+    {
+      "unicode": "1f605"
+    },
+    {
+      "unicode": "1f602"
+    },
+    {
+      "unicode": "1f923"
+    },
+    {
+      "unicode": "1f62d"
+    },
+    {
+      "unicode": "1f609"
+    },
+    {
+      "unicode": "1f617"
+    },
+    {
+      "unicode": "1f619"
+    },
+    {
+      "unicode": "1f61a"
+    },
+    {
+      "unicode": "1f618"
+    },
+    {
+      "unicode": "1f970"
+    },
+    {
+      "unicode": "1f60d"
+    },
+    {
+      "unicode": "1f929"
+    },
+    {
+      "unicode": "1f973"
+    },
+    {
+      "unicode": "1f643"
+    },
+    {
+      "unicode": "1f642"
+    },
+    {
+      "unicode": "1f972"
+    },
+    {
+      "unicode": "1f979"
+    },
+    {
+      "unicode": "1f60b"
+    },
+    {
+      "unicode": "1f61b"
+    },
+    {
+      "unicode": "1f61d"
+    },
+    {
+      "unicode": "1f61c"
+    },
+    {
+      "unicode": "1f92a"
+    },
+    {
+      "unicode": "1f607"
+    },
+    {
+      "unicode": "1f60a"
+    },
+    {
+      "unicode": "263a-fe0f"
+    },
+    {
+      "unicode": "1f60f"
+    },
+    {
+      "unicode": "1f60c"
+    },
+    {
+      "unicode": "1f614"
+    },
+    {
+      "unicode": "1f611"
+    },
+    {
+      "unicode": "1f610"
+    },
+    {
+      "unicode": "1f636"
+    },
+    {
+      "unicode": "1fae1"
+    },
+    {
+      "unicode": "1f914"
+    },
+    {
+      "unicode": "1f92b"
+    },
+    {
+      "unicode": "1fae2"
+    },
+    {
+      "unicode": "1f92d"
+    },
+    {
+      "unicode": "1f971"
+    },
+    {
+      "unicode": "1f917"
+    },
+    {
+      "unicode": "1fae3"
+    },
+    {
+      "unicode": "1f631"
+    },
+    {
+      "unicode": "1f928"
+    },
+    {
+      "unicode": "1f9d0"
+    },
+    {
+      "unicode": "1f612"
+    },
+    {
+      "unicode": "1f644"
+    },
+    {
+      "unicode": "1f62e-200d-1f4a8"
+    },
+    {
+      "unicode": "1f624"
+    },
+    {
+      "unicode": "1f620"
+    },
+    {
+      "unicode": "1f621"
+    },
+    {
+      "unicode": "1f92c"
+    },
+    {
+      "unicode": "1f97a"
+    },
+    {
+      "unicode": "1f61f"
+    },
+    {
+      "unicode": "1f625"
+    },
+    {
+      "unicode": "1f622"
+    },
+    {
+      "unicode": "2639-fe0f"
+    },
+    {
+      "unicode": "1f641"
+    },
+    {
+      "unicode": "1fae4"
+    },
+    {
+      "unicode": "1f615"
+    },
+    {
+      "unicode": "1f910"
+    },
+    {
+      "unicode": "1f630"
+    },
+    {
+      "unicode": "1f628"
+    },
+    {
+      "unicode": "1f627"
+    },
+    {
+      "unicode": "1f626"
+    },
+    {
+      "unicode": "1f62e"
+    },
+    {
+      "unicode": "1f62f"
+    },
+    {
+      "unicode": "1f632"
+    },
+    {
+      "unicode": "1f633"
+    },
+    {
+      "unicode": "1f92f"
+    },
+    {
+      "unicode": "1f62c"
+    },
+    {
+      "unicode": "1f613"
+    },
+    {
+      "unicode": "1f61e"
+    },
+    {
+      "unicode": "1f616"
+    },
+    {
+      "unicode": "1f623"
+    },
+    {
+      "unicode": "1f629"
+    },
+    {
+      "unicode": "1f62b"
+    },
+    {
+      "unicode": "1f635"
+    },
+    {
+      "unicode": "1fae5"
+    },
+    {
+      "unicode": "1f634"
+    },
+    {
+      "unicode": "1f62a"
+    },
+    {
+      "unicode": "1f924"
+    },
+    {
+      "unicode": "1f31b"
+    },
+    {
+      "unicode": "1f31c"
+    },
+    {
+      "unicode": "1f31a"
+    },
+    {
+      "unicode": "1f31d"
+    },
+    {
+      "unicode": "1f31e"
+    },
+    {
+      "unicode": "1fae0"
+    },
+    {
+      "unicode": "1f636-200d-1f32b-fe0f"
+    },
+    {
+      "unicode": "1f974"
+    },
+    {
+      "unicode": "1f975"
+    },
+    {
+      "unicode": "1f976"
+    },
+    {
+      "unicode": "1f922"
+    },
+    {
+      "unicode": "1f92e"
+    },
+    {
+      "unicode": "1f927"
+    },
+    {
+      "unicode": "1f912"
+    },
+    {
+      "unicode": "1f915"
+    },
+    {
+      "unicode": "1f637"
+    },
+    {
+      "unicode": "1f920"
+    },
+    {
+      "unicode": "1f911"
+    },
+    {
+      "unicode": "1f60e"
+    },
+    {
+      "unicode": "1f913"
+    },
+    {
+      "unicode": "1f978"
+    },
+    {
+      "unicode": "1f925"
+    },
+    {
+      "unicode": "1f921"
+    },
+    {
+      "unicode": "1f47b"
+    },
+    {
+      "unicode": "1f4a9"
+    },
+    {
+      "unicode": "1f47d"
+    },
+    {
+      "unicode": "1f47e"
+    },
+    {
+      "unicode": "1f916"
+    },
+    {
+      "unicode": "1f479"
+    },
+    {
+      "unicode": "1f47a"
+    },
+    {
+      "unicode": "1f383"
+    },
+    {
+      "unicode": "1f608"
+    },
+    {
+      "unicode": "1f47f"
+    },
+    {
+      "unicode": "1f525"
+    },
+    {
+      "unicode": "1f4ab"
+    },
+    {
+      "unicode": "2b50"
+    },
+    {
+      "unicode": "1f31f"
+    },
+    {
+      "unicode": "1f4a5"
+    },
+    {
+      "unicode": "1f4af"
+    },
+    {
+      "unicode": "1fae7"
+    },
+    {
+      "unicode": "1f573-fe0f"
+    },
+    {
+      "unicode": "1f38a"
+    },
+    {
+      "unicode": "1fa77"
+    },
+    {
+      "unicode": "2764-fe0f"
+    },
+    {
+      "unicode": "1f9e1"
+    },
+    {
+      "unicode": "1f49b"
+    },
+    {
+      "unicode": "1f49a"
+    },
+    {
+      "unicode": "1fa75"
+    },
+    {
+      "unicode": "1f499"
+    },
+    {
+      "unicode": "1f49c"
+    },
+    {
+      "unicode": "1f90e"
+    },
+    {
+      "unicode": "1fa76"
+    },
+    {
+      "unicode": "1f5a4"
+    },
+    {
+      "unicode": "1f90d"
+    },
+    {
+      "unicode": "2665-fe0f"
+    },
+    {
+      "unicode": "1f498"
+    },
+    {
+      "unicode": "1f49d"
+    },
+    {
+      "unicode": "1f496"
+    },
+    {
+      "unicode": "1f497"
+    },
+    {
+      "unicode": "1f493"
+    },
+    {
+      "unicode": "1f49e"
+    },
+    {
+      "unicode": "1f495"
+    },
+    {
+      "unicode": "1f48c"
+    },
+    {
+      "unicode": "1f49f"
+    },
+    {
+      "unicode": "2763-fe0f"
+    },
+    {
+      "unicode": "2764-fe0f-200d-1fa79"
+    },
+    {
+      "unicode": "1f494"
+    },
+    {
+      "unicode": "1f48b"
+    },
+    {
+      "unicode": "1fac2"
+    },
+    {
+      "unicode": "1f464"
+    },
+    {
+      "unicode": "1f465"
+    },
+    {
+      "unicode": "1f5e3-fe0f"
+    },
+    {
+      "unicode": "1f463"
+    },
+    {
+      "unicode": "1f9e0"
+    },
+    {
+      "unicode": "1fac0"
+    },
+    {
+      "unicode": "1fac1"
+    },
+    {
+      "unicode": "1fa78"
+    },
+    {
+      "unicode": "1f9a0"
+    },
+    {
+      "unicode": "1f9b7"
+    },
+    {
+      "unicode": "1f9b4"
+    },
+    {
+      "unicode": "1f480"
+    },
+    {
+      "unicode": "1f440"
+    },
+    {
+      "unicode": "1f441-fe0f"
+    },
+    {
+      "unicode": "1f444"
+    },
+    {
+      "unicode": "1fae6"
+    },
+    {
+      "unicode": "1f44d"
+    },
+    {
+      "unicode": "1f937"
+    },
+    {
+      "unicode": "1fa82"
+    },
+    {
+      "unicode": "1f490"
+    },
+    {
+      "unicode": "1f339"
+    },
+    {
+      "unicode": "1f940"
+    },
+    {
+      "unicode": "1f33a"
+    },
+    {
+      "unicode": "1f337"
+    },
+    {
+      "unicode": "1f338"
+    },
+    {
+      "unicode": "1fab7"
+    },
+    {
+      "unicode": "1f4ae"
+    },
+    {
+      "unicode": "1f3f5-fe0f"
+    },
+    {
+      "unicode": "1fabb"
+    },
+    {
+      "unicode": "1f33b"
+    },
+    {
+      "unicode": "1f33c"
+    },
+    {
+      "unicode": "1f342"
+    },
+    {
+      "unicode": "1f341"
+    },
+    {
+      "unicode": "1f344"
+    },
+    {
+      "unicode": "1f33e"
+    },
+    {
+      "unicode": "1f331"
+    },
+    {
+      "unicode": "1f33f"
+    },
+    {
+      "unicode": "1f343"
+    },
+    {
+      "unicode": "1f340"
+    },
+    {
+      "unicode": "1fab4"
+    },
+    {
+      "unicode": "1f335"
+    },
+    {
+      "unicode": "1f334"
+    },
+    {
+      "unicode": "1f333"
+    },
+    {
+      "unicode": "1f332"
+    },
+    {
+      "unicode": "1fab9"
+    },
+    {
+      "unicode": "26f0-fe0f"
+    },
+    {
+      "unicode": "1f3d4-fe0f"
+    },
+    {
+      "unicode": "1fab5"
+    },
+    {
+      "unicode": "1faa8"
+    },
+    {
+      "unicode": "26c4"
+    },
+    {
+      "unicode": "1f30a"
+    },
+    {
+      "unicode": "1f32c-fe0f"
+    },
+    {
+      "unicode": "1f300"
+    },
+    {
+      "unicode": "1f32a-fe0f"
+    },
+    {
+      "unicode": "1f30b"
+    },
+    {
+      "unicode": "1f3de-fe0f"
+    },
+    {
+      "unicode": "1f3d6-fe0f"
+    },
+    {
+      "unicode": "26c5"
+    },
+    {
+      "unicode": "2601-fe0f"
+    },
+    {
+      "unicode": "1f327-fe0f"
+    },
+    {
+      "unicode": "1f329-fe0f"
+    },
+    {
+      "unicode": "1f4a7"
+    },
+    {
+      "unicode": "2602-fe0f"
+    },
+    {
+      "unicode": "26a1"
+    },
+    {
+      "unicode": "1f308"
+    },
+    {
+      "unicode": "2604-fe0f"
+    },
+    {
+      "unicode": "1f30c"
+    },
+    {
+      "unicode": "1f30d"
+    },
+    {
+      "unicode": "1fa90"
+    },
+    {
+      "unicode": "1f648"
+    },
+    {
+      "unicode": "1f435"
+    },
+    {
+      "unicode": "1f981"
+    },
+    {
+      "unicode": "1f42f"
+    },
+    {
+      "unicode": "1f431"
+    },
+    {
+      "unicode": "1f436"
+    },
+    {
+      "unicode": "1f43a"
+    },
+    {
+      "unicode": "1f43b"
+    },
+    {
+      "unicode": "1f428"
+    },
+    {
+      "unicode": "1f43c"
+    },
+    {
+      "unicode": "1f42d"
+    },
+    {
+      "unicode": "1f430"
+    },
+    {
+      "unicode": "1f98a"
+    },
+    {
+      "unicode": "1f99d"
+    },
+    {
+      "unicode": "1f42e"
+    },
+    {
+      "unicode": "1f437"
+    },
+    {
+      "unicode": "1f984"
+    },
+    {
+      "unicode": "1f422"
+    },
+    {
+      "unicode": "1f438"
+    },
+    {
+      "unicode": "1f429"
+    },
+    {
+      "unicode": "1f410"
+    },
+    {
+      "unicode": "1f98c"
+    },
+    {
+      "unicode": "1f999"
+    },
+    {
+      "unicode": "1f9a5"
+    },
+    {
+      "unicode": "1f994"
+    },
+    {
+      "unicode": "1f987"
+    },
+    {
+      "unicode": "1f989"
+    },
+    {
+      "unicode": "1f426"
+    },
+    {
+      "unicode": "1f414"
+    },
+    {
+      "unicode": "1fabf"
+    },
+    {
+      "unicode": "1f54a-fe0f"
+    },
+    {
+      "unicode": "1f9a9"
+    },
+    {
+      "unicode": "1f427"
+    },
+    {
+      "unicode": "1f988"
+    },
+    {
+      "unicode": "1f433"
+    },
+    {
+      "unicode": "1f41f"
+    },
+    {
+      "unicode": "1f99e"
+    },
+    {
+      "unicode": "1f980"
+    },
+    {
+      "unicode": "1f419"
+    },
+    {
+      "unicode": "1f9aa"
+    },
+    {
+      "unicode": "1fab8"
+    },
+    {
+      "unicode": "1f982"
+    },
+    {
+      "unicode": "1f577-fe0f"
+    },
+    {
+      "unicode": "1f41a"
+    },
+    {
+      "unicode": "1f40c"
+    },
+    {
+      "unicode": "1f997"
+    },
+    {
+      "unicode": "1fab2"
+    },
+    {
+      "unicode": "1fab3"
+    },
+    {
+      "unicode": "1f41d"
+    },
+    {
+      "unicode": "1f41e"
+    },
+    {
+      "unicode": "1f98b"
+    },
+    {
+      "unicode": "1f43e"
+    },
+    {
+      "unicode": "1f353"
+    },
+    {
+      "unicode": "1f352"
+    },
+    {
+      "unicode": "1f34e"
+    },
+    {
+      "unicode": "1f349"
+    },
+    {
+      "unicode": "1f34a"
+    },
+    {
+      "unicode": "1f96d"
+    },
+    {
+      "unicode": "1f34d"
+    },
+    {
+      "unicode": "1f34c"
+    },
+    {
+      "unicode": "1f34b"
+    },
+    {
+      "unicode": "1f348"
+    },
+    {
+      "unicode": "1f350"
+    },
+    {
+      "unicode": "1f95d"
+    },
+    {
+      "unicode": "1fad2"
+    },
+    {
+      "unicode": "1fad0"
+    },
+    {
+      "unicode": "1f347"
+    },
+    {
+      "unicode": "1f965"
+    },
+    {
+      "unicode": "1f345"
+    },
+    {
+      "unicode": "1f336-fe0f"
+    },
+    {
+      "unicode": "1fada"
+    },
+    {
+      "unicode": "1f955"
+    },
+    {
+      "unicode": "1f360"
+    },
+    {
+      "unicode": "1f9c5"
+    },
+    {
+      "unicode": "1f33d"
+    },
+    {
+      "unicode": "1f966"
+    },
+    {
+      "unicode": "1f952"
+    },
+    {
+      "unicode": "1f96c"
+    },
+    {
+      "unicode": "1fadb"
+    },
+    {
+      "unicode": "1fad1"
+    },
+    {
+      "unicode": "1f951"
+    },
+    {
+      "unicode": "1f9c4"
+    },
+    {
+      "unicode": "1f954"
+    },
+    {
+      "unicode": "1fad8"
+    },
+    {
+      "unicode": "1f330"
+    },
+    {
+      "unicode": "1f95c"
+    },
+    {
+      "unicode": "1f35e"
+    },
+    {
+      "unicode": "1fad3"
+    },
+    {
+      "unicode": "1f950"
+    },
+    {
+      "unicode": "1f96f"
+    },
+    {
+      "unicode": "1f9c7"
+    },
+    {
+      "unicode": "1f95e"
+    },
+    {
+      "unicode": "1f373"
+    },
+    {
+      "unicode": "1f9c0"
+    },
+    {
+      "unicode": "1f953"
+    },
+    {
+      "unicode": "1f969"
+    },
+    {
+      "unicode": "1f357"
+    },
+    {
+      "unicode": "1f356"
+    },
+    {
+      "unicode": "1f354"
+    },
+    {
+      "unicode": "1f32d"
+    },
+    {
+      "unicode": "1f96a"
+    },
+    {
+      "unicode": "1f968"
+    },
+    {
+      "unicode": "1f35f"
+    },
+    {
+      "unicode": "1fad4"
+    },
+    {
+      "unicode": "1f32e"
+    },
+    {
+      "unicode": "1f32f"
+    },
+    {
+      "unicode": "1f959"
+    },
+    {
+      "unicode": "1f9c6"
+    },
+    {
+      "unicode": "1f958"
+    },
+    {
+      "unicode": "1f35d"
+    },
+    {
+      "unicode": "1f96b"
+    },
+    {
+      "unicode": "1fad5"
+    },
+    {
+      "unicode": "1f963"
+    },
+    {
+      "unicode": "1f957"
+    },
+    {
+      "unicode": "1f372"
+    },
+    {
+      "unicode": "1f35b"
+    },
+    {
+      "unicode": "1f35c"
+    },
+    {
+      "unicode": "1f363"
+    },
+    {
+      "unicode": "1f364"
+    },
+    {
+      "unicode": "1f961"
+    },
+    {
+      "unicode": "1f35a"
+    },
+    {
+      "unicode": "1f371"
+    },
+    {
+      "unicode": "1f95f"
+    },
+    {
+      "unicode": "1f362"
+    },
+    {
+      "unicode": "1f359"
+    },
+    {
+      "unicode": "1f358"
+    },
+    {
+      "unicode": "1f365"
+    },
+    {
+      "unicode": "1f361"
+    },
+    {
+      "unicode": "1f960"
+    },
+    {
+      "unicode": "1f367"
+    },
+    {
+      "unicode": "1f368"
+    },
+    {
+      "unicode": "1f366"
+    },
+    {
+      "unicode": "1f967"
+    },
+    {
+      "unicode": "1f370"
+    },
+    {
+      "unicode": "1f36e"
+    },
+    {
+      "unicode": "1f382"
+    },
+    {
+      "unicode": "1f9c1"
+    },
+    {
+      "unicode": "1f36d"
+    },
+    {
+      "unicode": "1f36c"
+    },
+    {
+      "unicode": "1f36b"
+    },
+    {
+      "unicode": "1f369"
+    },
+    {
+      "unicode": "1f36a"
+    },
+    {
+      "unicode": "1f36f"
+    },
+    {
+      "unicode": "1f9c2"
+    },
+    {
+      "unicode": "1f9c8"
+    },
+    {
+      "unicode": "1f37f"
+    },
+    {
+      "unicode": "1f9ca"
+    },
+    {
+      "unicode": "1f964"
+    },
+    {
+      "unicode": "1f9cb"
+    },
+    {
+      "unicode": "1f9c3"
+    },
+    {
+      "unicode": "1f95b"
+    },
+    {
+      "unicode": "1f37c"
+    },
+    {
+      "unicode": "1f375"
+    },
+    {
+      "unicode": "2615"
+    },
+    {
+      "unicode": "1fad6"
+    },
+    {
+      "unicode": "1f9c9"
+    },
+    {
+      "unicode": "1f942"
+    },
+    {
+      "unicode": "1f37e"
+    },
+    {
+      "unicode": "1f377"
+    },
+    {
+      "unicode": "1fad7"
+    },
+    {
+      "unicode": "1f379"
+    },
+    {
+      "unicode": "1f376"
+    },
+    {
+      "unicode": "1f962"
+    },
+    {
+      "unicode": "1f37d-fe0f"
+    },
+    {
+      "unicode": "1f6d1"
+    },
+    {
+      "unicode": "1f6a7"
+    },
+    {
+      "unicode": "1f6a8"
+    },
+    {
+      "unicode": "26fd"
+    },
+    {
+      "unicode": "1f6df"
+    },
+    {
+      "unicode": "2693"
+    },
+    {
+      "unicode": "1f687"
+    },
+    {
+      "unicode": "1f6a6"
+    },
+    {
+      "unicode": "1f6f4"
+    },
+    {
+      "unicode": "1f6b2"
+    },
+    {
+      "unicode": "1f3cd-fe0f"
+    },
+    {
+      "unicode": "1f697"
+    },
+    {
+      "unicode": "1f69a"
+    },
+    {
+      "unicode": "1f69b"
+    },
+    {
+      "unicode": "1f69c"
+    },
+    {
+      "unicode": "1f3ce-fe0f"
+    },
+    {
+      "unicode": "1f695"
+    },
+    {
+      "unicode": "1f68c"
+    },
+    {
+      "unicode": "1f682"
+    },
+    {
+      "unicode": "1f6f6"
+    },
+    {
+      "unicode": "1f6a0"
+    },
+    {
+      "unicode": "1f6a1"
+    },
+    {
+      "unicode": "1f6f8"
+    },
+    {
+      "unicode": "1f680"
+    },
+    {
+      "unicode": "2708-fe0f"
+    },
+    {
+      "unicode": "1f3a2"
+    },
+    {
+      "unicode": "1f3a1"
+    },
+    {
+      "unicode": "1f3a0"
+    },
+    {
+      "unicode": "1f3aa"
+    },
+    {
+      "unicode": "1f5fc"
+    },
+    {
+      "unicode": "1f5ff"
+    },
+    {
+      "unicode": "1f3db-fe0f"
+    },
+    {
+      "unicode": "1f3f0"
+    },
+    {
+      "unicode": "1f3df-fe0f"
+    },
+    {
+      "unicode": "1f3da-fe0f"
+    },
+    {
+      "unicode": "1f3e0"
+    },
+    {
+      "unicode": "1f3d5-fe0f"
+    },
+    {
+      "unicode": "1f307"
+    },
+    {
+      "unicode": "1f3dd-fe0f"
+    },
+    {
+      "unicode": "1f6e3-fe0f"
+    },
+    {
+      "unicode": "1f9f3"
+    },
+    {
+      "unicode": "1f388"
+    },
+    {
+      "unicode": "1f380"
+    },
+    {
+      "unicode": "1f381"
+    },
+    {
+      "unicode": "1f386"
+    },
+    {
+      "unicode": "1fa94"
+    },
+    {
+      "unicode": "1faa9"
+    },
+    {
+      "unicode": "1f397-fe0f"
+    },
+    {
+      "unicode": "1f947"
+    },
+    {
+      "unicode": "1f948"
+    },
+    {
+      "unicode": "1f949"
+    },
+    {
+      "unicode": "1f3c5"
+    },
+    {
+      "unicode": "1f396-fe0f"
+    },
+    {
+      "unicode": "1f3c6"
+    },
+    {
+      "unicode": "26bd"
+    },
+    {
+      "unicode": "26be"
+    },
+    {
+      "unicode": "1f94e"
+    },
+    {
+      "unicode": "1f3c0"
+    },
+    {
+      "unicode": "1f3d0"
+    },
+    {
+      "unicode": "1f3c8"
+    },
+    {
+      "unicode": "1f3c9"
+    },
+    {
+      "unicode": "1f3be"
+    },
+    {
+      "unicode": "1f945"
+    },
+    {
+      "unicode": "1f3f8"
+    },
+    {
+      "unicode": "1f94d"
+    },
+    {
+      "unicode": "1f3cf"
+    },
+    {
+      "unicode": "1f3d1"
+    },
+    {
+      "unicode": "1f3d2"
+    },
+    {
+      "unicode": "1f94c"
+    },
+    {
+      "unicode": "1f6f7"
+    },
+    {
+      "unicode": "1f3bf"
+    },
+    {
+      "unicode": "26f8-fe0f"
+    },
+    {
+      "unicode": "1f6fc"
+    },
+    {
+      "unicode": "1fa70"
+    },
+    {
+      "unicode": "1f6f9"
+    },
+    {
+      "unicode": "26f3"
+    },
+    {
+      "unicode": "1f3af"
+    },
+    {
+      "unicode": "1f3f9"
+    },
+    {
+      "unicode": "1f94f"
+    },
+    {
+      "unicode": "1fa83"
+    },
+    {
+      "unicode": "1fa81"
+    },
+    {
+      "unicode": "1f3a3"
+    },
+    {
+      "unicode": "1f93f"
+    },
+    {
+      "unicode": "1f3bd"
+    },
+    {
+      "unicode": "1f94b"
+    },
+    {
+      "unicode": "1f94a"
+    },
+    {
+      "unicode": "1f3b1"
+    },
+    {
+      "unicode": "1f3d3"
+    },
+    {
+      "unicode": "1f3b3"
+    },
+    {
+      "unicode": "265f-fe0f"
+    },
+    {
+      "unicode": "1fa80"
+    },
+    {
+      "unicode": "1f9e9"
+    },
+    {
+      "unicode": "1f3ae"
+    },
+    {
+      "unicode": "1f3b2"
+    },
+    {
+      "unicode": "1f3b0"
+    },
+    {
+      "unicode": "1f3b4"
+    },
+    {
+      "unicode": "1f004"
+    },
+    {
+      "unicode": "1f0cf"
+    },
+    {
+      "unicode": "1f4f7"
+    },
+    {
+      "unicode": "1f5bc-fe0f"
+    },
+    {
+      "unicode": "1f3a8"
+    },
+    {
+      "unicode": "1f58c-fe0f"
+    },
+    {
+      "unicode": "1f58d-fe0f"
+    },
+    {
+      "unicode": "1faa1"
+    },
+    {
+      "unicode": "1f9f5"
+    },
+    {
+      "unicode": "1f9f6"
+    },
+    {
+      "unicode": "1f3b9"
+    },
+    {
+      "unicode": "1f3b7"
+    },
+    {
+      "unicode": "1f3ba"
+    },
+    {
+      "unicode": "1f3b8"
+    },
+    {
+      "unicode": "1fa95"
+    },
+    {
+      "unicode": "1f3bb"
+    },
+    {
+      "unicode": "1fa98"
+    },
+    {
+      "unicode": "1f941"
+    },
+    {
+      "unicode": "1fa87"
+    },
+    {
+      "unicode": "1fa88"
+    },
+    {
+      "unicode": "1fa97"
+    },
+    {
+      "unicode": "1f3a4"
+    },
+    {
+      "unicode": "1f3a7"
+    },
+    {
+      "unicode": "1f39a-fe0f"
+    },
+    {
+      "unicode": "1f39b-fe0f"
+    },
+    {
+      "unicode": "1f399-fe0f"
+    },
+    {
+      "unicode": "1f4fb"
+    },
+    {
+      "unicode": "1f4fa"
+    },
+    {
+      "unicode": "1f4fc"
+    },
+    {
+      "unicode": "1f39e-fe0f"
+    },
+    {
+      "unicode": "1f3ac"
+    },
+    {
+      "unicode": "1f3ad"
+    },
+    {
+      "unicode": "1f39f-fe0f"
+    },
+    {
+      "unicode": "1f4f1"
+    },
+    {
+      "unicode": "260e-fe0f"
+    },
+    {
+      "unicode": "1f4df"
+    },
+    {
+      "unicode": "1f4e0"
+    },
+    {
+      "unicode": "1f50c"
+    },
+    {
+      "unicode": "1f50b"
+    },
+    {
+      "unicode": "1faab"
+    },
+    {
+      "unicode": "1f4be"
+    },
+    {
+      "unicode": "1f4bf"
+    },
+    {
+      "unicode": "1f4bb"
+    },
+    {
+      "unicode": "1f5a8-fe0f"
+    },
+    {
+      "unicode": "1f4b8"
+    },
+    {
+      "unicode": "2696-fe0f"
+    },
+    {
+      "unicode": "1f6d2"
+    },
+    {
+      "unicode": "1f6cd-fe0f"
+    },
+    {
+      "unicode": "1f4a1"
+    },
+    {
+      "unicode": "1f9f1"
+    },
+    {
+      "unicode": "1f6cb-fe0f"
+    },
+    {
+      "unicode": "1f9f9"
+    },
+    {
+      "unicode": "1f9fc"
+    },
+    {
+      "unicode": "1fa92"
+    },
+    {
+      "unicode": "1faae"
+    },
+    {
+      "unicode": "1f9fa"
+    },
+    {
+      "unicode": "1f9e6"
+    },
+    {
+      "unicode": "1f455"
+    },
+    {
+      "unicode": "1f457"
+    },
+    {
+      "unicode": "1f393"
+    },
+    {
+      "unicode": "1f452"
+    },
+    {
+      "unicode": "1f451"
+    },
+    {
+      "unicode": "1faad"
+    },
+    {
+      "unicode": "1f45c"
+    },
+    {
+      "unicode": "1f48d"
+    },
+    {
+      "unicode": "1f48e"
+    },
+    {
+      "unicode": "1f460"
+    },
+    {
+      "unicode": "1f45f"
+    },
+    {
+      "unicode": "1f97f"
+    },
+    {
+      "unicode": "1f9ea"
+    },
+    {
+      "unicode": "1f321-fe0f"
+    },
+    {
+      "unicode": "1fa7a"
+    },
+    {
+      "unicode": "1f9ec"
+    },
+    {
+      "unicode": "1f52d"
+    },
+    {
+      "unicode": "1f52c"
+    },
+    {
+      "unicode": "1f9f2"
+    },
+    {
+      "unicode": "1f6e0-fe0f"
+    },
+    {
+      "unicode": "26cf-fe0f"
+    },
+    {
+      "unicode": "2699-fe0f"
+    },
+    {
+      "unicode": "26d3-fe0f"
+    },
+    {
+      "unicode": "1f587-fe0f"
+    },
+    {
+      "unicode": "1f4cf"
+    },
+    {
+      "unicode": "1f5d1-fe0f"
+    },
+    {
+      "unicode": "1f58a-fe0f"
+    },
+    {
+      "unicode": "2712-fe0f"
+    },
+    {
+      "unicode": "270f-fe0f"
+    },
+    {
+      "unicode": "1f4da"
+    },
+    {
+      "unicode": "1f5c3-fe0f"
+    },
+    {
+      "unicode": "1f4ca"
+    },
+    {
+      "unicode": "1f4c8"
+    },
+    {
+      "unicode": "1f4c9"
+    },
+    {
+      "unicode": "2702-fe0f"
+    },
+    {
+      "unicode": "1f4f0"
+    },
+    {
+      "unicode": "1f4e6"
+    },
+    {
+      "unicode": "1f5f3-fe0f"
+    },
+    {
+      "unicode": "231a"
+    },
+    {
+      "unicode": "1f570-fe0f"
+    },
+    {
+      "unicode": "231b"
+    },
+    {
+      "unicode": "23f3"
+    },
+    {
+      "unicode": "23f0"
+    },
+    {
+      "unicode": "1f514"
+    },
+    {
+      "unicode": "1f4e3"
+    },
+    {
+      "unicode": "1f50e"
+    },
+    {
+      "unicode": "1f52e"
+    },
+    {
+      "unicode": "1f9ff"
+    },
+    {
+      "unicode": "1f3fa"
+    },
+    {
+      "unicode": "1faa4"
+    },
+    {
+      "unicode": "1f5dd-fe0f"
+    },
+    {
+      "unicode": "1f512"
+    },
+    {
+      "unicode": "2648"
+    },
+    {
+      "unicode": "2649"
+    },
+    {
+      "unicode": "264a"
+    },
+    {
+      "unicode": "264b"
+    },
+    {
+      "unicode": "264c"
+    },
+    {
+      "unicode": "264d"
+    },
+    {
+      "unicode": "264e"
+    },
+    {
+      "unicode": "264f"
+    },
+    {
+      "unicode": "2650"
+    },
+    {
+      "unicode": "2651"
+    },
+    {
+      "unicode": "2652"
+    },
+    {
+      "unicode": "2653"
+    },
+    {
+      "unicode": "26ce"
+    },
+    {
+      "unicode": "2757"
+    },
+    {
+      "unicode": "2753"
+    },
+    {
+      "unicode": "2049-fe0f"
+    },
+    {
+      "unicode": "1f198"
+    },
+    {
+      "unicode": "2668-fe0f"
+    },
+    {
+      "unicode": "1f4f4"
+    },
+    {
+      "unicode": "1f508"
+    },
+    {
+      "unicode": "1f3b6"
+    },
+    {
+      "unicode": "2622-fe0f"
+    },
+    {
+      "unicode": "2623-fe0f"
+    },
+    {
+      "unicode": "26a0-fe0f"
+    },
+    {
+      "unicode": "267b-fe0f"
+    },
+    {
+      "unicode": "2705"
+    },
+    {
+      "unicode": "1f195"
+    },
+    {
+      "unicode": "1f193"
+    },
+    {
+      "unicode": "1f199"
+    },
+    {
+      "unicode": "1f197"
+    },
+    {
+      "unicode": "1f192"
+    },
+    {
+      "unicode": "1f522"
+    },
+    {
+      "unicode": "1f6ae"
+    },
+    {
+      "unicode": "262e-fe0f"
+    },
+    {
+      "unicode": "262f-fe0f"
+    },
+    {
+      "unicode": "267e-fe0f"
+    },
+    {
+      "unicode": "2716-fe0f"
+    },
+    {
+      "unicode": "2795"
+    },
+    {
+      "unicode": "2796"
+    },
+    {
+      "unicode": "2797"
+    },
+    {
+      "unicode": "27b0"
+    },
+    {
+      "unicode": "27bf"
+    },
+    {
+      "unicode": "3030-fe0f"
+    },
+    {
+      "unicode": "a9-fe0f"
+    },
+    {
+      "unicode": "ae-fe0f"
+    },
+    {
+      "unicode": "2122-fe0f"
+    },
+    {
+      "unicode": "2660-fe0f"
+    },
+    {
+      "unicode": "1f5ef-fe0f"
+    },
+    {
+      "unicode": "1f4ac"
+    }
   ]
 }
