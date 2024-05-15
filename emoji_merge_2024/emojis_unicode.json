@@ -18,7 +18,7 @@
         },
         {
             "category_name": "tab_5",
-            "is_hidden": false
+            "is_hidden": true
         },
         {
             "category_name": "tab_6",
