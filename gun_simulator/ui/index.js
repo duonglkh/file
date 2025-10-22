@@ -1,7 +1,7 @@
-System.register("chunks:///ui.js",[],(function(){return{execute:function(){}}}));
+System.register("bundle://ui/ui.js",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/ui', 'chunks:///ui.js'); 
+  r('virtual:///prerequisite-imports/ui', 'bundle://ui/ui.js'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {
