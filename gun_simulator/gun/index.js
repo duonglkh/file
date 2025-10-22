@@ -1,7 +1,7 @@
-System.register("bundle://gun/gun.js",[],(function(){return{execute:function(){}}}));
+System.register("chunks:///gun.js",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/gun', 'bundle://gun/gun.js'); 
+  r('virtual:///prerequisite-imports/gun', 'chunks:///gun.js'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {

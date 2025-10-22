@@ -1,7 +1,7 @@
-System.register("bundle://fonts/fonts.js",[],(function(){return{execute:function(){}}}));
+System.register("chunks:///fonts.js",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/fonts', 'bundle://fonts/fonts.js'); 
+  r('virtual:///prerequisite-imports/fonts', 'chunks:///fonts.js'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {
