@@ -1,0 +1,23 @@
+<!doctype html><meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<title>Playable Loader</title>
+<style>html,body{margin:0;height:100%;background:#000}iframe{position:fixed;inset:0;width:100%;height:100%;border:0;background:#000}#l{position:fixed;left:10px;bottom:10px;color:#fff;opacity:.7;font:12px/1.4 system-ui}</style>
+<div id=l>Loading…</div><iframe id=f title=Playable></iframe>
+<script>
+// EDIT THESE TWO:
+const CDN_BASE = "http://127.0.0.1:8000/cdn/v1/";
+const CLICK_URL = "https://play.google.com/store/apps/details?id=com.example.app";
+
+function openStore(){
+  try{ if (window.mraid && typeof mraid.open==="function") mraid.open(CLICK_URL);
+       else window.open(CLICK_URL,"_blank"); }
+  catch(e){ window.open(CLICK_URL,"_blank"); }
+}
+window.install = openStore; window.gameClose = ()=>{};
+
+// Build iframe srcdoc that injects your CDN JS entry (playable.js)
+const srcdoc = `<!doctype html><meta charset=utf-8><meta name=viewport content='width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no'><style>html,body{margin:0;height:100%;background:#000}</style><script>parent.install&&(window.install=parent.install);parent.gameClose&&(window.gameClose=parent.gameClose);<\/script><script src="${CDN_BASE}playable.js"><\/script>`;
+const f=document.getElementById("f");
+try{ f.srcdoc = srcdoc; }catch(e){ const b=new Blob([srcdoc],{type:"text/html"}); f.src=URL.createObjectURL(b); }
+f.addEventListener("load",()=>document.getElementById("l").remove());
+</script>
